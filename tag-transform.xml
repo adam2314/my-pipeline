@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <!--
   Tag transforms before the map writer (maps.py): mapsforge-creator's tag-transform.xml
-  (github.com/mapsforge/mapsforge-creator, LGPL-3.0), keeping `smoothness` for tracks.
+  (github.com/mapsforge/mapsforge-creator, LGPL-3.0), keeping `smoothness` for tracks and
+  `wikipedia` and `wikidata` for the app's links to articles.
 -->
 <translations>
 
@@ -32,8 +33,6 @@
             <tag k="source" v=".*"/>
             <tag k="width" v=".*"/>
             <tag k="created_by" v=".*"/>
-            <tag k="wikipedia" v=".*"/>
-            <tag k="wikidata" v=".*"/>
             <tag k="official_name" v=".*"/>
             <tag k="alt_name" v=".*"/>
             <tag k="alt_name(:.*)" v=".*"/>

@@ -20,10 +20,12 @@ data MapAround's Topo style draws for the outdoors that those maps leave out:
 - **Outdoor places**: wilderness huts, water points, wells and taps, cairns, guideposts, isolated
   dwellings and farms, archaeological sites, wayside crosses and shrines, gates, stiles and
   cattle grids. Springs from zoom 14 (mapsforge: 17).
+- **Wikipedia links**: `wikipedia` and `wikidata` on the places and areas the map keeps anyway
+  (peaks, castles, lakes, villages…), as text, so the app can open a tapped place's article.
 
 The full list is [tag-mapping.xml](tag-mapping.xml) (mapsforge's, with the additions at the end).
 Tags pass through mapsforge-creator's tag transform first ([tag-transform.xml](tag-transform.xml)),
-as for the mapsforge.org maps, except that `smoothness` is kept. Any app that reads mapsforge
+as for the mapsforge.org maps, except that `smoothness`, `wikipedia` and `wikidata` are kept. Any app that reads mapsforge
 maps can use them; the extra data shows with a style that draws it.
 
 ## How they're built

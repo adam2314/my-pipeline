@@ -723,6 +723,10 @@
         <osm-tag key="information" renderable="false" value="office" />
         <osm-tag key="drinking_water" renderable="false" value="yes" />
         <osm-tag key="drinking_water" renderable="false" value="no" />
+        <!-- The place's Wikipedia article ("de:Schloss Vaduz") and Wikidata item ("Q666946"), as
+             text, on whatever the map keeps already: the app links a tapped place to its article. -->
+        <osm-tag key="wikipedia" renderable="false" value="%s" />
+        <osm-tag key="wikidata" renderable="false" value="%s" />
     </pois>
     <ways>
         <osm-tag key="natural" value="cliff" zoom-appear="13" />
@@ -859,5 +863,9 @@
         <osm-tag key="protect_class" renderable="false" value="4" />
         <osm-tag key="protect_class" renderable="false" value="5" />
         <osm-tag key="protect_class" renderable="false" value="6" />
+        <!-- The place's Wikipedia article ("de:Schloss Vaduz") and Wikidata item ("Q666946"), as
+             text, on whatever the map keeps already: the app links a tapped place to its article. -->
+        <osm-tag key="wikipedia" renderable="false" value="%s" />
+        <osm-tag key="wikidata" renderable="false" value="%s" />
     </ways>
 </tag-mapping>
