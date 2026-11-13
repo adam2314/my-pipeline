@@ -1,0 +1,21 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install osmium==4.* shapely==2.* pyshp==3.*
+      - run: python -m unittest -v
+      - name: Tag files are well-formed XML
+        run: python -c "import xml.dom.minidom as m; [m.parse(f) for f in ('tag-mapping.xml', 'tag-transform.xml')]"

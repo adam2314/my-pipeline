@@ -1,0 +1,16 @@
+# Build data (maps.py setup/land/region/build): never committed.
+build/
+work/
+out/
+results/
+land/
+tools-cache/
+plan.json
+catalog.json
+previous.json
+*.osm.pbf
+*.map
+*.map.tmp
+__pycache__/
+.venv/
+venv/
