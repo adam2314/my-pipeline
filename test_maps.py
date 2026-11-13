@@ -81,6 +81,14 @@ class Plan(unittest.TestCase):
         self.assertEqual([["a"], ["b", "c"], ["d", "e"]], batches)
         self.assertEqual(sorted(sizes), sorted(r for b in batches for r in b))
 
+    def test_outdoor_tags_with_their_osm_values(self):
+        # mapsforge-creator's transform doesn't rename these (its rules are off): OSM's own values.
+        mapping = (maps.HERE / "tag-mapping.xml").read_text(encoding="utf-8")
+        for k, v in [("sac_scale", "mountain_hiking"), ("mtb:scale", "3"), ("trail_visibility", "bad"),
+                     ("smoothness", "very_bad"), ("4wd_only", "yes"), ("natural", "cliff"), ("trail", "hiking")]:
+            self.assertIn(f'key="{k}"', mapping)
+            self.assertRegex(mapping, f'key="{k}"[^>]*value="{v}"')
+
     def test_regions_file(self):
         regions = maps.read_regions(maps.HERE / "regions.txt")
         self.assertEqual(len(regions), len(set(regions)))

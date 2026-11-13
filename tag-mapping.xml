@@ -686,8 +686,8 @@
 
     <!-- ************* MapAround additions: what its styles draw for the outdoors *************
          Marked trails (made from the route relations), cliffs and ridges, path and track grades,
-         surfaces, 4x4-only tracks, fords, huts, camp sites, water. Values as after tag-transform.xml
-         (sac_scale T1-T6, mtb_scale mtbs_N). -->
+         surfaces, 4x4-only tracks, fords, huts, camp sites, water. Values as in OpenStreetMap
+         (mapsforge-creator's rules that would rename sac_scale and mtb:scale are switched off). -->
     <pois>
         <osm-tag key="natural" value="saddle" zoom-appear="13" />
         <osm-tag key="natural" value="rock" zoom-appear="15" />
@@ -744,12 +744,25 @@
         <osm-tag key="man_made" value="embankment" zoom-appear="14" />
         <osm-tag key="man_made" value="dyke" zoom-appear="13" />
         <osm-tag key="trail" value="hiking" zoom-appear="11" />
-        <osm-tag key="sac_scale" renderable="false" value="T1" />
-        <osm-tag key="sac_scale" renderable="false" value="T2" />
-        <osm-tag key="sac_scale" renderable="false" value="T3" />
-        <osm-tag key="sac_scale" renderable="false" value="T4" />
-        <osm-tag key="sac_scale" renderable="false" value="T5" />
-        <osm-tag key="sac_scale" renderable="false" value="T6" />
+        <osm-tag key="sac_scale" renderable="false" value="hiking" />
+        <osm-tag key="sac_scale" renderable="false" value="mountain_hiking" />
+        <osm-tag key="sac_scale" renderable="false" value="demanding_mountain_hiking" />
+        <osm-tag key="sac_scale" renderable="false" value="alpine_hiking" />
+        <osm-tag key="sac_scale" renderable="false" value="demanding_alpine_hiking" />
+        <osm-tag key="sac_scale" renderable="false" value="difficult_alpine_hiking" />
+        <osm-tag key="mtb:scale" renderable="false" value="0" />
+        <osm-tag key="mtb:scale" renderable="false" value="1" />
+        <osm-tag key="mtb:scale" renderable="false" value="2" />
+        <osm-tag key="mtb:scale" renderable="false" value="3" />
+        <osm-tag key="mtb:scale" renderable="false" value="4" />
+        <osm-tag key="mtb:scale" renderable="false" value="5" />
+        <osm-tag key="mtb:scale" renderable="false" value="6" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="0" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="1" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="2" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="3" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="4" />
+        <osm-tag key="mtb:scale:uphill" renderable="false" value="5" />
         <osm-tag key="trail_visibility" renderable="false" value="excellent" />
         <osm-tag key="trail_visibility" renderable="false" value="good" />
         <osm-tag key="trail_visibility" renderable="false" value="intermediate" />
@@ -793,20 +806,6 @@
         <osm-tag key="4wd_only" renderable="false" value="yes" />
         <osm-tag key="ford" renderable="false" value="yes" />
         <osm-tag key="ford" renderable="false" value="stepping_stones" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_0" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_1" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_2" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_3" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_4" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_5" />
-        <osm-tag key="mtb_scale" renderable="false" value="mtbs_6" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_0" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_1" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_2" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_3" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_4" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_5" />
-        <osm-tag key="mtb_scale_uphill" renderable="false" value="mtbu_6" />
         <osm-tag key="access" renderable="false" value="no" />
         <osm-tag key="access" renderable="false" value="permissive" />
         <osm-tag key="access" renderable="false" value="agricultural" />

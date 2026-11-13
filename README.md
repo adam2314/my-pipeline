@@ -14,8 +14,8 @@ data MapAround's Topo style draws for the outdoors that those maps leave out:
   download for these maps.
 - **Cliffs, arêtes, ridges, earth banks**, bare rock, sand, shingle, glaciers, saddles, rocks,
   waterfalls.
-- **Paths and tracks**: `sac_scale` (T1–T6), `trail_visibility`, `mtb:scale` (as `mtb_scale` /
-  `mtb_scale_uphill`), `surface`, `smoothness`, `4wd_only`, `ford`, and more `access`,
+- **Paths and tracks**: `sac_scale` (hiking … difficult_alpine_hiking), `trail_visibility`,
+  `mtb:scale` and `mtb:scale:uphill`, `surface`, `smoothness`, `4wd_only`, `ford`, and more `access`,
   `motor_vehicle`, `foot` and `bicycle` values; via ferratas.
 - **Outdoor places**: wilderness huts, water points, wells and taps, cairns, guideposts, isolated
   dwellings and farms, archaeological sites, wayside crosses and shrines, gates, stiles and
@@ -73,7 +73,8 @@ Extracts over 1,500 MB aren't built; the catalog lists them as `needs-funding`, 
 "Not available: too big for the free build machines, needs funding". In November 2026 these were
 the whole-country files of France, Germany, Italy, Great Britain, England, Poland, the Alps, Japan,
 India, China, Indonesia, Brazil and the four US groupings. All of them can be downloaded as smaller
-regions (states, provinces, counties).
+regions (states, provinces, counties), and meanwhile the app offers mapsforge.org's whole-country
+file instead (see below).
 
 Building them needs a machine with more memory and disk than GitHub's free ones (a self-hosted
 runner, or a rented server, with `--max-mb` raised). The first full run will also show how long
@@ -115,6 +116,12 @@ These are shared with [MapAround](https://github.com/adam2314/maparound); change
   app's ⋮ menu says "Marked trails: in this map", and the online trail overlay isn't drawn over it.
 - The trail lines' tags, made like the app's `TrailTags` (colour from `osmc:symbol` or `colour`, up
   to 4 colours side by side, the most important route's name and ref).
+- **Paths and file names as on mapsforge.org.** In the transition the app merges mapsforge.org's
+  list into this one (`MapAroundCatalog.merge`): a region without a `url` here (`needs-funding` or
+  `unavailable`) is offered with mapsforge.org's file of the same path, labelled as a basic map
+  without marked trails, and regions only mapsforge.org has are listed the same way. A switch in
+  the app shows the whole mapsforge.org list instead. An installed mapsforge.org map (no `MapAround
+  maps` comment) is offered this one as an update.
 
 ## Building a region on your computer
 
