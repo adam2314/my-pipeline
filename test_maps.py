@@ -73,6 +73,54 @@ class Trails(unittest.TestCase):
         self.assertEqual([], maps.trail_lines([]))
 
 
+class Borders(unittest.TestCase):
+    def test_lines_of_a_country_border_say_so(self):
+        self.assertEqual({"boundary": "administrative", "admin_level": "2"},
+                         maps.border_lines({"boundary": "administrative", "name": "Lebanon - Israel"}, False))
+        # Disputed: by the line's own tags, or in disputed borders only.
+        for tags, only in [({"boundary": "administrative", "disputed": "yes"}, False),
+                           ({"boundary": "disputed"}, False), ({"boundary": "administrative", "admin_level": "4"}, True)]:
+            self.assertEqual("yes", maps.border_lines(tags, only)["disputed"])
+        # Already saying so, at sea, the coast: no copy.
+        self.assertIsNone(maps.border_lines({"boundary": "administrative", "admin_level": "2"}, False))
+        self.assertIsNone(maps.border_lines({"boundary": "administrative", "maritime": "yes"}, False))
+        self.assertIsNone(maps.border_lines({"natural": "coastline"}, False))
+
+    def test_the_map_keeps_disputed(self):
+        mapping = (maps.HERE / "tag-mapping.xml").read_text(encoding="utf-8")
+        self.assertRegex(mapping, 'key="disputed"[^>]*value="yes"')
+
+    @unittest.skipUnless(HAS_OSMIUM, "needs pip install osmium shapely pyshp")
+    def test_from_the_countries_relations(self):
+        import osmium
+        from osmium.osm import Location
+        from osmium.osm.mutable import Node, Relation, Way
+
+        path = Path(tempfile.mkdtemp()) / "borders.osm.pbf"
+        w = osmium.SimpleWriter(str(path))
+        adm = {"boundary": "administrative"}
+        try:
+            for i in range(1, 9):
+                w.add_node(Node(id=i, location=Location(35.0 + i / 10, 32.0), version=1))
+            w.add_way(Way(id=10, nodes=[1, 2], tags={**adm, "name": "Lebanon - Israel"}, version=1))
+            w.add_way(Way(id=11, nodes=[2, 3], tags={**adm, "admin_level": "2"}, version=1))  # says so
+            w.add_way(Way(id=12, nodes=[3, 4], tags={**adm, "maritime": "yes"}, version=1))  # at sea
+            w.add_way(Way(id=13, nodes=[4, 5], tags=adm, version=1))  # a country's, and a disputed territory's
+            w.add_way(Way(id=14, nodes=[5, 6], tags={**adm, "admin_level": "4"}, version=1))  # a line of control only
+            w.add_way(Way(id=15, nodes=[6, 7], tags=adm, version=1))  # a district's
+            w.add_way(Way(id=16, nodes=[7, 8], tags={**adm, "disputed": "yes"}, version=1))  # a country's, disputed
+            country = {"type": "boundary", **adm, "admin_level": "2"}
+            w.add_relation(Relation(id=20, members=[("w", i, "outer") for i in (10, 11, 12, 13, 16)], tags=country, version=1))
+            w.add_relation(Relation(id=21, members=[("w", 15, "outer")], tags={**country, "admin_level": "6"}, version=1))
+            w.add_relation(Relation(id=22, members=[("w", 13, "outer"), ("w", 14, "")],
+                                    tags={"type": "boundary", "boundary": "disputed", "admin_level": "2"}, version=1))
+        finally:
+            w.close()
+        line = {**adm, "admin_level": "2"}
+        dashed = {**line, "disputed": "yes"}
+        self.assertEqual([([1, 2], line), ([4, 5], line), ([5, 6], dashed), ([7, 8], dashed)], maps.border_ways(path))
+
+
 class Plan(unittest.TestCase):
     def test_jobs_filled_biggest_first(self):
         mb = maps.MB

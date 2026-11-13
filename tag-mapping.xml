@@ -591,6 +591,8 @@
         <!-- <osm-tag key="admin_level" value="6" force-polygon-line="true" zoom-appear="15" /> <osm-tag key="admin_level" value="8"
             force-polygon-line="true" zoom-appear="16" /> <osm-tag key="admin_level" value="9" force-polygon-line="true" zoom-appear="16"
             /> <osm-tag key="admin_level" value="10" force-polygon-line="true" zoom-appear="16" /> -->
+        <!-- Disputed borders, lines of control: the app's styles dash them. -->
+        <osm-tag key="disputed" renderable="false" value="yes" />
     </ways>
 
     <!-- AIRPORT TAGS -->

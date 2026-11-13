@@ -294,6 +294,61 @@ def trail_ways(pbf: Path) -> list[tuple[list[int], dict[str, str]]]:
     return out
 
 
+# ---- country borders -----------------------------------------------------------------------------
+# OpenStreetMap puts a border's level on its relation (boundary=administrative + admin_level=2), and
+# more and more lines carry only boundary=administrative (all of Israel's and Palestine's do now);
+# the map writer reads the lines' own tags. The app's styles draw country borders from admin_level=2
+# lines (and show the world's coarse ones where a map has none: WorldTile.kt in
+# github.com/adam2314/maparound), so each line of a country's border that doesn't say so gets a copy
+# that does. Lines only in disputed ones (boundary=disputed, admin_level=2: lines of control, the
+# extent of a claim) are disputed borders, which the styles dash.
+
+
+def border_lines(way_tags: dict[str, str], disputed_only: bool) -> dict[str, str] | None:
+    """
+    The tags for a copy of a country border's line, or None when it needs none (it says so itself)
+    or isn't drawn (at sea, the coast). [disputed_only]: it's in disputed borders only, no country's.
+    """
+    if way_tags.get("admin_level") == "2":
+        return None
+    if way_tags.get("maritime") == "yes" or way_tags.get("boundary") == "maritime" or way_tags.get("natural") == "coastline":
+        return None
+    tags = {"boundary": "administrative", "admin_level": "2"}
+    if disputed_only or way_tags.get("disputed") == "yes" or way_tags.get("boundary") == "disputed":
+        tags["disputed"] = "yes"
+    return tags
+
+
+def border_ways(pbf: Path) -> list[tuple[list[int], dict[str, str]]]:
+    """Copies of the extract's country border lines (and disputed ones) that don't carry admin_level=2 themselves."""
+    import osmium
+
+    countries: set[int] = set()
+    disputed: set[int] = set()
+    rels = osmium.FileProcessor(str(pbf), osmium.osm.RELATION).with_filter(
+        osmium.filter.TagFilter(("boundary", "administrative"), ("boundary", "disputed")))
+    for rel in rels:
+        t = rel.tags
+        if t.get("admin_level") != "2":
+            continue
+        into = disputed if t.get("boundary") == "disputed" else countries
+        for m in rel.members:
+            if m.type == "w" and m.role in ("outer", "inner", ""):
+                into.add(m.ref)
+    out: list[tuple[list[int], dict[str, str]]] = []
+    lines = countries | disputed
+    if not lines:
+        return out
+    ways = osmium.FileProcessor(str(pbf), osmium.osm.WAY).with_filter(osmium.filter.IdFilter(lines))
+    for w in ways:
+        if len(w.nodes) < 2:
+            continue
+        tags = border_lines(dict(w.tags), w.id not in countries)
+        if tags:
+            out.append(([n.ref for n in w.nodes], tags))
+    return out
+
+
 # ---- land and sea (as mapsforge-creator) ---------------------------------------------------------
 
 
@@ -386,8 +441,8 @@ class Extra:
             w.close()
 
 
-def extra_for(box, land_dir: Path, trails) -> Extra:
-    """The sea over the whole box, the land on it (natural=sea / nosea, as mapsforge's maps), and the trail lines."""
+def extra_for(box, land_dir: Path, trails, borders=()) -> Extra:
+    """The sea over the whole box, the land on it (natural=sea / nosea, as mapsforge's maps), the trail lines and the country border lines."""
     s, w, n, e = box
     x = Extra()
     sea = x.ring([(w, s), (w, n), (e, n), (e, s)])
@@ -398,7 +453,9 @@ def extra_for(box, land_dir: Path, trails) -> Extra:
         count += 1
     for nodes, tags in trails:
         x.way(nodes, tags)
-    log(f"  land: {count} polygons; trail lines: {len(trails)}")
+    for nodes, tags in borders:
+        x.way(nodes, tags)
+    log(f"  land: {count} polygons; trail lines: {len(trails)}; country border lines: {len(borders)}")
     return x
 
 
@@ -465,12 +522,13 @@ def build_region(path: str, a, size: int | None = None) -> list[dict]:
         date = data_date(pbf)
         log(f"  {size / MB:.0f} MB of OSM data from {date}, {len(boxes)} area(s)")
         trails = trail_ways(pbf)
+        borders = border_ways(pbf)
         kind = "ram" if size <= a.ram_mb * MB else "hd"
         results = []
         for i, box in enumerate(boxes):
             area = path if len(boxes) == 1 else f"{path}-{i + 1}"
             extra = work / f"extra-{i}.osm.pbf"
-            extra_for(box, Path(a.land), trails).write(extra)
+            extra_for(box, Path(a.land), trails, borders).write(extra)
             out = out_dir / file_name(area)
             tmp = out.with_name(out.name + ".tmp")
             write_map(Path(a.tools), pbf, extra, tmp, box, kind, a.heap or java_heap(), a.threads)

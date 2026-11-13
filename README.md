@@ -22,6 +22,11 @@ data MapAround's Topo style draws for the outdoors that those maps leave out:
   cattle grids. Springs from zoom 14 (mapsforge: 17).
 - **Wikipedia links**: `wikipedia` and `wikidata` on the places and areas the map keeps anyway
   (peaks, castles, lakes, villages…), as text, so the app can open a tapped place's article.
+- **Country borders.** OpenStreetMap keeps a border's `admin_level=2` on its
+  relation, and more and more of its lines carry only `boundary=administrative` (all of Israel's
+  and Palestine's now); the map writer reads the lines' own tags. Each line of a country's border
+  that doesn't say so gets a copy that does, and the lines of disputed borders only (lines of
+  control, the extent of a claim) get `disputed=yes`, which the app's styles dash.
 
 The full list is [tag-mapping.xml](tag-mapping.xml) (mapsforge's, with the additions at the end).
 Tags pass through mapsforge-creator's tag transform first ([tag-transform.xml](tag-transform.xml)),
@@ -34,7 +39,8 @@ maps can use them; the extra data shows with a style that draws it.
 
 1. Downloads the region's OpenStreetMap extract (`.osm.pbf`, checksum checked) and outline
    (`.poly`) from [Geofabrik](https://download.geofabrik.de).
-2. Makes the trail lines from the route relations (pyosmium), and the land and sea for the map's
+2. Makes the trail lines from the route relations and the country border lines from the border
+   relations (pyosmium), and the land and sea for the map's
    area from the [land polygons](https://osmdata.openstreetmap.de/data/land-polygons.html)
    (`natural=nosea` / `natural=sea`, as mapsforge-creator does), into a small extra `.pbf`.
 3. Runs [Osmosis](https://github.com/openstreetmap/osmosis) with the
