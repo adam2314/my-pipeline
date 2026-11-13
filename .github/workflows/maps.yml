@@ -166,3 +166,18 @@ jobs:
           mkdir -p results
           python maps.py catalog --plan plan.json --results results --previous previous.json --out catalog.json --prune
           gh release upload maps-latest catalog.json --clobber
+
+      # Also on the `catalog` branch: browsers can read raw.githubusercontent.com from other sites
+      # (CORS), which release downloads don't allow; the web app reads it there.
+      - name: catalog.json on the catalog branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/catalog" && cp catalog.json "$RUNNER_TEMP/catalog/"
+          cd "$RUNNER_TEMP/catalog"
+          git init -q -b catalog
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -q -m "Map catalog $(date -u +%Y-%m-%d)"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" catalog

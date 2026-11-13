@@ -57,8 +57,10 @@ GitHub's free machines (4 CPUs, 16 GB of memory, up to 6 hours a job, 20 jobs at
 - **build** (one job per batch): builds its regions and uploads each map to that month's release,
   **`maps-YYYY-MM`** (GitHub allows files up to 2 GiB each). A region that fails doesn't stop the
   others.
-- **catalog**: writes **`catalog.json`** to the **`maps-latest`** release:
-  `https://github.com/adam2314/my-pipeline/releases/download/maps-latest/catalog.json`. A region
+- **catalog**: writes **`catalog.json`** to the **`maps-latest`** release
+  (`https://github.com/adam2314/my-pipeline/releases/download/maps-latest/catalog.json`) and to the
+  **`catalog`** branch (`https://raw.githubusercontent.com/adam2314/my-pipeline/catalog/catalog.json`,
+  which browsers may read from other sites, unlike release downloads: the web app). A region
   whose build failed keeps last month's map. Then it deletes map releases that neither this catalog
   nor the previous one points to, so downloads in progress can finish.
 
