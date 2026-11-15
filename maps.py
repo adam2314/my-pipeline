@@ -557,7 +557,15 @@ def build_region(path: str, a, size: int | None = None) -> list[dict]:
             extra_for(box, Path(a.land), trails, borders).write(extra)
             out = out_dir / file_name(area)
             tmp = out.with_name(out.name + ".tmp")
-            write_map(Path(a.tools), pbf, extra, tmp, box, kind, a.heap or java_heap(), a.threads)
+            try:
+                write_map(Path(a.tools), pbf, extra, tmp, box, kind, a.heap or java_heap(), a.threads)
+            except subprocess.CalledProcessError:
+                if kind != "ram":
+                    raise
+                # Out of memory (dense regions: the Alps' trails): the same again, via disk.
+                log("  in memory failed: again via disk")
+                tmp.unlink(missing_ok=True)
+                write_map(Path(a.tools), pbf, extra, tmp, box, "hd", a.heap or java_heap(), a.threads)
             tmp.replace(out)
             results.append({
                 "region": path,
