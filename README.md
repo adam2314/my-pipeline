@@ -9,7 +9,8 @@ They're like the maps from download.mapsforge.org (same regions, same file names
 data MapAround's Topo style draws for the outdoors that those maps leave out:
 
 - **Marked hiking trails**, from the `route=hiking|foot` relations: each path once per waymark
-  colour (`trail=hiking`, `trail_colour`, `trail_offset`, `trail_n`, the route's `name` and `ref`),
+  colour (`trail=hiking`, `trail_colour`, `trail_offset`, `trail_n`, the route's `name` and `ref`,
+  and on a dirt road `trail_track=any|high|4x4|minor`, so the style colours the road's edges),
   the way the app makes them from its own "Marked trails" download, so the app doesn't need that
   download for these maps.
 - **Cliffs, arêtes, ridges, earth banks**, bare rock, sand, shingle, glaciers, saddles, rocks,
@@ -125,7 +126,8 @@ These are shared with [MapAround](https://github.com/adam2314/maparound); change
 - `MapAround maps` in each map file's comment (the app's `MapAroundMaps.MARKER`): with it, the
   app's ⋮ menu says "Marked trails: in this map", and the online trail overlay isn't drawn over it.
 - The trail lines' tags, made like the app's `TrailTags` (colour from `osmc:symbol` or `colour`, up
-  to 4 colours side by side, the most important route's name and ref).
+  to 4 colours side by side, the most important route's name and ref, the dirt road from
+  `TrailTrack.of`).
 - **Paths and file names as on mapsforge.org.** In the transition the app merges mapsforge.org's
   list into this one (`MapAroundCatalog.merge`): a region without a `url` here (`needs-funding` or
   `unavailable`) is offered with mapsforge.org's file of the same path, labelled as a basic map

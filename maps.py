@@ -233,8 +233,31 @@ def trail_colour(osmc: str | None, colour: str | None) -> str:
     return "other"
 
 
-def trail_lines(routes: list[tuple[str, str, int, str]]) -> list[dict[str, str]]:
-    """Tag sets for a way on [routes] (name, ref, network, colour): one per waymark colour (TrailTags.lines)."""
+def trail_track(tags) -> str | None:
+    """The dirt road a trail way is, as the Topo style draws it (TrailTrack.of): a double line whose
+    edges then take the trail's colours. any|high|4x4|minor, or None (a path, a road, a broken track)."""
+    if tags.get("highway") != "track":
+        return None
+    if tags.get("tunnel") not in (None, "no", "false") or tags.get("area") not in (None, "no", "false"):
+        return None
+    four = tags.get("4wd_only")
+    if four == "yes":
+        return "4x4"
+    if four not in (None, "no"):
+        return None
+    smoothness = tags.get("smoothness")
+    if smoothness is not None:
+        return {"excellent": "any", "good": "any", "intermediate": "any", "bad": "high",
+                "very_bad": "4x4", "horrible": "4x4"}.get(smoothness)
+    tracktype = tags.get("tracktype")
+    if tracktype is None:
+        return "minor"
+    return {"grade1": "any", "grade2": "any", "grade3": "high", "grade4": "4x4", "grade5": "4x4"}.get(tracktype)
+
+
+def trail_lines(routes: list[tuple[str, str, int, str]], track: str | None = None) -> list[dict[str, str]]:
+    """Tag sets for a way on [routes] (name, ref, network, colour), a dirt road when [track]: one per
+    waymark colour (TrailTags.lines)."""
     ordered = sorted(routes, key=lambda r: r[2])
     colours: list[str] = []
     for r in ordered:
@@ -247,6 +270,8 @@ def trail_lines(routes: list[tuple[str, str, int, str]]) -> list[dict[str, str]]
     out = []
     for k, colour in enumerate(colours):
         tags = {"trail": "hiking", "trail_colour": colour, "trail_offset": offsets[k]}
+        if track:
+            tags["trail_track"] = track
         if k == 0:
             tags["trail_n"] = str(len(colours))
             name, ref = ordered[0][0], ordered[0][1]
@@ -289,7 +314,8 @@ def trail_ways(pbf: Path) -> list[tuple[list[int], dict[str, str]]]:
         if r is None or len(w.nodes) < 2:
             continue
         nodes = [n.ref for n in w.nodes]
-        for tags in trail_lines([routes[i] for i in r]):
+        track = trail_track({t.k: t.v for t in w.tags})
+        for tags in trail_lines([routes[i] for i in r], track):
             out.append((nodes, tags))
     return out
 

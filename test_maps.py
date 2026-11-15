@@ -64,6 +64,23 @@ class Trails(unittest.TestCase):
         self.assertEqual({"trail": "hiking", "trail_colour": "red", "trail_offset": "l05", "trail_n": "2", "name": "Via Alpina", "ref": "R"}, lines[0])
         self.assertNotIn("name", lines[1])
 
+    def test_dirt_roads_as_the_style_draws_them(self):
+        def track(**t):
+            return maps.trail_track({"highway": "track", **t})
+        self.assertEqual("minor", track())
+        self.assertEqual("any", track(tracktype="grade2"))
+        self.assertEqual("high", track(smoothness="bad", tracktype="grade1"))  # smoothness first
+        self.assertEqual("4x4", track(**{"4wd_only": "yes", "smoothness": "good"}))  # 4wd_only before both
+        self.assertEqual("4x4", track(tracktype="grade5"))
+        self.assertIsNone(track(smoothness="impassable"))  # a dotted line, no edges
+        self.assertIsNone(track(tunnel="yes"))
+        self.assertIsNone(maps.trail_track({"highway": "path"}))
+
+    def test_lines_on_a_dirt_road_know_it(self):
+        lines = maps.trail_lines([("A", "", 3, "red"), ("B", "", 3, "blue")], "4x4")
+        self.assertEqual(["4x4", "4x4"], [t["trail_track"] for t in lines])
+        self.assertNotIn("trail_track", maps.trail_lines([("A", "", 3, "red")])[0])
+
     def test_at_most_four_colours(self):
         colours = ["red", "blue", "green", "yellow", "black"]
         lines = maps.trail_lines([("", "", 4, c) for c in colours])

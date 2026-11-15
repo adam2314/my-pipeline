@@ -858,6 +858,10 @@
         <osm-tag key="trail_n" renderable="false" value="2" />
         <osm-tag key="trail_n" renderable="false" value="3" />
         <osm-tag key="trail_n" renderable="false" value="4" />
+        <osm-tag key="trail_track" renderable="false" value="any" />
+        <osm-tag key="trail_track" renderable="false" value="high" />
+        <osm-tag key="trail_track" renderable="false" value="4x4" />
+        <osm-tag key="trail_track" renderable="false" value="minor" />
         <osm-tag key="protect_class" renderable="false" value="1a" />
         <osm-tag key="protect_class" renderable="false" value="1b" />
         <osm-tag key="protect_class" renderable="false" value="2" />
