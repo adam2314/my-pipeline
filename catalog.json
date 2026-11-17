@@ -1,0 +1,5332 @@
+{
+ "version": 1,
+ "generated": "2026-11-17T01:38:20Z",
+ "attribution": "Map data (c) OpenStreetMap contributors, ODbL (openstreetmap.org/copyright)",
+ "maps": [
+  {
+   "region": "africa/algeria",
+   "path": "africa/algeria",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__algeria.map",
+   "size": 332693425,
+   "sha256": "b8625b097ea5644558425c27aa77ca6912dfe5d7883697768d42fe2f5123b173",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    18.82874,
+    -8.804895,
+    37.87284,
+    12.13598
+   ]
+  },
+  {
+   "region": "africa/angola",
+   "path": "africa/angola",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__angola.map",
+   "size": 123231283,
+   "sha256": "abf9f915eb20c5b5cb9f2c29baa86e9d1e9214f3628e0f5fa97c74bb2e754994",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -18.16508,
+    10.43848,
+    -4.227925,
+    24.20297
+   ]
+  },
+  {
+   "region": "africa/benin",
+   "path": "africa/benin",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__benin.map",
+   "size": 51218140,
+   "sha256": "2421ea91bff506e4e48b3e18aeaf28bdac84212c7f01935f42a65d3196a0ee20",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.884817,
+    0.661489,
+    12.53658,
+    3.961694
+   ]
+  },
+  {
+   "region": "africa/botswana",
+   "path": "africa/botswana",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__botswana.map",
+   "size": 101331701,
+   "sha256": "90aba676756c18ae8b9f802be784fc07de6c1ed6caa39169d648168e25506c26",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -27.01539,
+    19.88745,
+    -17.67403,
+    29.48549
+   ]
+  },
+  {
+   "region": "africa/burkina-faso",
+   "path": "africa/burkina-faso",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__burkina-faso.map",
+   "size": 94906522,
+   "sha256": "40153d5d4c70594226382dba5714e10d9752627001570d6f083da012180549db",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    9.284107,
+    -5.627409,
+    15.19271,
+    2.512529
+   ]
+  },
+  {
+   "region": "africa/burundi",
+   "path": "africa/burundi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__burundi.map",
+   "size": 41007736,
+   "sha256": "bf4f7b9a27893e88f467afb99e06e1fc5df2352b4eb80ac71af948883225fe67",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -4.581328,
+    28.90018,
+    -2.207893,
+    30.95115
+   ]
+  },
+  {
+   "region": "africa/cameroon",
+   "path": "africa/cameroon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__cameroon.map",
+   "size": 275740249,
+   "sha256": "65cdfad1e91fb30618d5dfc9f03ec3225f5ae50302879c24c630ce9214a8a208",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    1.545663,
+    8.23,
+    13.19278,
+    16.30312
+   ]
+  },
+  {
+   "region": "africa/canary-islands",
+   "path": "africa/canary-islands",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/cape-verde",
+   "path": "africa/cape-verde",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/central-african-republic",
+   "path": "africa/central-african-republic",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__central-african-republic.map",
+   "size": 163757516,
+   "sha256": "fed8956549839d1239c98906a5cfe659e03fa51f5bc37611f9853715df9ea6fa",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    2.108735,
+    14.30908,
+    11.13264,
+    27.57578
+   ]
+  },
+  {
+   "region": "africa/chad",
+   "path": "africa/chad",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/comores",
+   "path": "africa/comores",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__comores.map",
+   "size": 4855562,
+   "sha256": "3150307c1701564d697fac4b31e9f7618dd7b819725a122c62e6a90a8860e1e4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.069,
+    42.64981,
+    -10.64181,
+    45.69661
+   ]
+  },
+  {
+   "region": "africa/congo-brazzaville",
+   "path": "africa/congo-brazzaville",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__congo-brazzaville.map",
+   "size": 53470814,
+   "sha256": "6efe625ba68138250de687f387f71d2f31614a0a3f5d44ab38f2833a96fa3579",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -5.295885,
+    10.84417,
+    3.840932,
+    18.76783
+   ]
+  },
+  {
+   "region": "africa/congo-democratic-republic",
+   "path": "africa/congo-democratic-republic",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/djibouti",
+   "path": "africa/djibouti",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__djibouti.map",
+   "size": 7878285,
+   "sha256": "ddca0edf44504967ebd44f08b106016a17b1d3b7b0c639e95b40e873cfd819bf",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    10.78824,
+    41.66177,
+    12.92615,
+    43.94569
+   ]
+  },
+  {
+   "region": "africa/egypt",
+   "path": "africa/egypt",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__egypt.map",
+   "size": 193060066,
+   "sha256": "3b0123fb53f2aa99dfae63d645600909836b843c95d426eead6e56c1fd36c814",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    21.8838,
+    24.52628,
+    32.62518,
+    37.26263
+   ]
+  },
+  {
+   "region": "africa/equatorial-guinea",
+   "path": "africa/equatorial-guinea",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__equatorial-guinea.map",
+   "size": 13369173,
+   "sha256": "84a0645a468f832303e87d3b9ef515f434ae40d8e07645f90a76210af351d12c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -1.892669,
+    5.065631,
+    4.247134,
+    11.52338
+   ]
+  },
+  {
+   "region": "africa/eritrea",
+   "path": "africa/eritrea",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/ethiopia",
+   "path": "africa/ethiopia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__ethiopia.map",
+   "size": 179220616,
+   "sha256": "3dfddd6b82d313c7a98c23e7f574f59356ac83c8894b91cf852e249c2662515d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    3.289192,
+    32.86722,
+    15.01626,
+    48.10545
+   ]
+  },
+  {
+   "region": "africa/gabon",
+   "path": "africa/gabon",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/ghana",
+   "path": "africa/ghana",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__ghana.map",
+   "size": 116049761,
+   "sha256": "6a47c9bd0f1638a9487e3a63cbca955e0b36aa019208ff49145abaf07c55e92e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    3.604056,
+    -3.907399,
+    11.27772,
+    1.494038
+   ]
+  },
+  {
+   "region": "africa/guinea",
+   "path": "africa/guinea",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__guinea.map",
+   "size": 118669544,
+   "sha256": "b29d74e026417095300296e50fcfe28fa22158c5022326daca0f5566bbc38764",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    7.083332,
+    -16.95708,
+    12.78322,
+    -7.527259
+   ]
+  },
+  {
+   "region": "africa/guinea-bissau",
+   "path": "africa/guinea-bissau",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__guinea-bissau.map",
+   "size": 12405218,
+   "sha256": "49b4d0742531670383a85f09f292c133609a7b1906b60137084ba83dce76daf5",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    10.04494,
+    -17.06427,
+    12.7936,
+    -13.52923
+   ]
+  },
+  {
+   "region": "africa/ivory-coast",
+   "path": "africa/ivory-coast",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__ivory-coast.map",
+   "size": 90564006,
+   "sha256": "0ec373ebc130139b302ccb4b94e7abfcb545ec8559139ecfdd711c76c1933c19",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    4.041916,
+    -8.733881,
+    10.85034,
+    -2.376215
+   ]
+  },
+  {
+   "region": "africa/kenya",
+   "path": "africa/kenya",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__kenya.map",
+   "size": 338704541,
+   "sha256": "4c9c3ba3a8308d692bf030c388b6a84c0170e0d2166a69dbe2d06d5f14844940",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -4.916276,
+    33.7679,
+    4.729931,
+    42.07685
+   ]
+  },
+  {
+   "region": "africa/lesotho",
+   "path": "africa/lesotho",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__lesotho.map",
+   "size": 99073756,
+   "sha256": "2b8151ea09acd61cada8e9e17215dbb17ff9207e599471f7e38d2f01f6a24577",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -30.78472,
+    26.9092,
+    -28.46734,
+    29.56393
+   ]
+  },
+  {
+   "region": "africa/liberia",
+   "path": "africa/liberia",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/libya",
+   "path": "africa/libya",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/madagascar",
+   "path": "africa/madagascar",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__madagascar.map",
+   "size": 398312495,
+   "sha256": "cb77a434a60282170c0654f10133d5b47390a7911c366499c0b946d9a4ae0f0c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -26.6823,
+    42.20124,
+    -10.92746,
+    51.24843
+   ]
+  },
+  {
+   "region": "africa/malawi",
+   "path": "africa/malawi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__malawi.map",
+   "size": 146666338,
+   "sha256": "7aa40de163dfde7dd84c3b8548e083e978ec483c92bdb1c3cd74c62a4220bcff",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -17.23324,
+    32.56441,
+    -9.262691,
+    36.02941
+   ]
+  },
+  {
+   "region": "africa/mali",
+   "path": "africa/mali",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__mali.map",
+   "size": 246479063,
+   "sha256": "3752bf9ccb064c763477f90ff615d76e9d874e16bafbe6b1de7293d7e963dee4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    10.0176,
+    -12.34701,
+    25.19499,
+    4.430257
+   ]
+  },
+  {
+   "region": "africa/mauritania",
+   "path": "africa/mauritania",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/mauritius",
+   "path": "africa/mauritius",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__mauritius.map",
+   "size": 27097633,
+   "sha256": "95bb73965ad7906bce51d4212158c9e0518f4fca755f3ba2f7fa7f4755eaa886",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -22.3411,
+    53.44727,
+    -9.083617,
+    64.76991
+   ]
+  },
+  {
+   "region": "africa/morocco",
+   "path": "africa/morocco",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__morocco.map",
+   "size": 228766968,
+   "sha256": "7f31ac1ad7b3c8a5139099c56eb2e6fa4d9a471908be98003562f7ff0f7a6d04",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    20.30373,
+    -18.2835,
+    36.16077,
+    -0.893576
+   ]
+  },
+  {
+   "region": "africa/mozambique",
+   "path": "africa/mozambique",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__mozambique.map",
+   "size": 281888547,
+   "sha256": "fbefbb8f86b2239c6fa46a55b6822f43eacb3d52586a43e593ff90514be8ee23",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -27.03837,
+    30.10742,
+    -9.886206,
+    42.63489
+   ]
+  },
+  {
+   "region": "africa/namibia",
+   "path": "africa/namibia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__namibia.map",
+   "size": 93230509,
+   "sha256": "8e18a4857b4e5806c9a107afea115e71187691f8e08c20572a8c89e210271584",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -30.30686,
+    9.684615,
+    -16.81682,
+    25.36589
+   ]
+  },
+  {
+   "region": "africa/niger",
+   "path": "africa/niger",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/nigeria",
+   "path": "africa/nigeria",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__nigeria.map",
+   "size": 768242095,
+   "sha256": "df0fe8c455db89828277d159143c570b59ddbe064be7b6d0457c7f67c5e16fae",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    2.574022,
+    2.564528,
+    13.99874,
+    14.78057
+   ]
+  },
+  {
+   "region": "africa/rwanda",
+   "path": "africa/rwanda",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__rwanda.map",
+   "size": 66547761,
+   "sha256": "a7d6b62ce97e59dbbf1fa1740af57da348bd37412e9ecda4e14fe80215d9811f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -2.948747,
+    28.7593,
+    -0.93831,
+    31.00864
+   ]
+  },
+  {
+   "region": "africa/saint-helena-ascension-and-tristan-da-cunha",
+   "path": "africa/saint-helena-ascension-and-tristan-da-cunha",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/sao-tome-and-principe",
+   "path": "africa/sao-tome-and-principe",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__sao-tome-and-principe.map",
+   "size": 2638100,
+   "sha256": "508bed53fc81c9a5c7b19901cf734365278e17c839fe632a33c381faa7b814ba",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -0.625565,
+    5.173916,
+    2.540286,
+    8.466995
+   ]
+  },
+  {
+   "region": "africa/senegal-and-gambia",
+   "path": "africa/senegal-and-gambia",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/seychelles",
+   "path": "africa/seychelles",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__seychelles.map",
+   "size": 17086420,
+   "sha256": "86c466877b75f5eb9640bd454ff9ae414c7b26f771a80c05e088199a61db8b6e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -12.65844,
+    45.58495,
+    -3.07239,
+    57.67433
+   ]
+  },
+  {
+   "region": "africa/sierra-leone",
+   "path": "africa/sierra-leone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__sierra-leone.map",
+   "size": 42283483,
+   "sha256": "6a21ce459147c1a8f30ddeb9666986d5825da83b93563f5fe369ae55158d9246",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.291619,
+    -14.86451,
+    10.10571,
+    -10.1558
+   ]
+  },
+  {
+   "region": "africa/somalia",
+   "path": "africa/somalia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__somalia.map",
+   "size": 210321866,
+   "sha256": "b5cf829d305f6694821206b5419070fc8c780f9797f683369c615a816c0f604a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -1.916753,
+    40.87489,
+    12.61177,
+    52.54871
+   ]
+  },
+  {
+   "region": "africa/south-africa-and-lesotho",
+   "path": "africa/south-africa-and-lesotho",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/south-sudan",
+   "path": "africa/south-sudan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__south-sudan.map",
+   "size": 168420433,
+   "sha256": "61474d39de35396665ce49559d631f2572cefeeb091899e8930ee8b121e21e5e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    3.361547,
+    23.32491,
+    12.33937,
+    36.06298
+   ]
+  },
+  {
+   "region": "africa/sudan",
+   "path": "africa/sudan",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/swaziland",
+   "path": "africa/swaziland",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/tanzania",
+   "path": "africa/tanzania",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__tanzania.map",
+   "size": 645779602,
+   "sha256": "c55675b31017014ab731b403dbaf63b8ba8b1114e635b694094b5051b6f6dfba",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -11.87595,
+    29.14395,
+    -0.874988,
+    40.79487
+   ]
+  },
+  {
+   "region": "africa/togo",
+   "path": "africa/togo",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__togo.map",
+   "size": 62413893,
+   "sha256": "ab392807a28c7fc9b106315d63aa9624f2d80f336072863c77f7a654199c8bdf",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.792541,
+    -0.248338,
+    11.24395,
+    1.910942
+   ]
+  },
+  {
+   "region": "africa/tunisia",
+   "path": "africa/tunisia",
+   "status": "unavailable"
+  },
+  {
+   "region": "africa/uganda",
+   "path": "africa/uganda",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__uganda.map",
+   "size": 391173299,
+   "sha256": "6e9832a4270a11c94c49a8d86a6588b520ac7a6110e97801bd578f6bcf519788",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -1.587315,
+    29.47056,
+    4.350552,
+    35.11031
+   ]
+  },
+  {
+   "region": "africa/zambia",
+   "path": "africa/zambia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__zambia.map",
+   "size": 262414231,
+   "sha256": "e82efd30b4a052e9c56511baa7d32923707c2f0436e32a1d5d9ad4315eb56c02",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -18.18777,
+    21.88982,
+    -8.139483,
+    33.81773
+   ]
+  },
+  {
+   "region": "africa/zimbabwe",
+   "path": "africa/zimbabwe",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/africa__zimbabwe.map",
+   "size": 183185516,
+   "sha256": "e0ff8c3cf0441b0a6ef5c7322bc29b9b474c5d401b7a827f6e88c168ab7eecef",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -22.54725,
+    25.1229,
+    -15.48707,
+    33.18541
+   ]
+  },
+  {
+   "region": "asia/afghanistan",
+   "path": "asia/afghanistan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__afghanistan.map",
+   "size": 147860906,
+   "sha256": "265b3463301a52e73d4f521904f0c40334655e333a06228ac9c0fc36ef6981d9",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    29.26856,
+    60.38761,
+    38.60674,
+    75.00017
+   ]
+  },
+  {
+   "region": "asia/armenia",
+   "path": "asia/armenia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__armenia.map",
+   "size": 50078930,
+   "sha256": "09944458bded673a8c54bfa0c145063a27797dc11c83586173fe39a8f4713acf",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    38.73743,
+    43.33821,
+    41.41029,
+    46.74262
+   ]
+  },
+  {
+   "region": "asia/azerbaijan",
+   "path": "asia/azerbaijan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__azerbaijan.map",
+   "size": 49448667,
+   "sha256": "3f70f6bb01499e492d9cdb2bc20eec4155ea4f5b0f21c473ae20614c9240f155",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    38.14727,
+    44.65006,
+    42.77437,
+    51.8231
+   ]
+  },
+  {
+   "region": "asia/bangladesh",
+   "path": "asia/bangladesh",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__bangladesh.map",
+   "size": 421910387,
+   "sha256": "f2a0765a52f69062ddc838b1bcd561674fda7bdece6bef442a8a2b1930b21f40",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    18.48403,
+    87.89765,
+    26.74677,
+    92.79714
+   ]
+  },
+  {
+   "region": "asia/bhutan",
+   "path": "asia/bhutan",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/cambodia",
+   "path": "asia/cambodia",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china",
+   "path": "asia/china",
+   "status": "needs-funding",
+   "osmBytes": 1633278595
+  },
+  {
+   "region": "asia/china/anhui",
+   "path": "asia/china/anhui",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/beijing",
+   "path": "asia/china/beijing",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/chongqing",
+   "path": "asia/china/chongqing",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/fujian",
+   "path": "asia/china/fujian",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/gansu",
+   "path": "asia/china/gansu",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__gansu.map",
+   "size": 111509782,
+   "sha256": "907db780ec61241c17097f52de016c04eb38c08fc4b73c7c86f0a9223711f56c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.48438,
+    92.19907,
+    42.91354,
+    108.8193
+   ]
+  },
+  {
+   "region": "asia/china/guangdong",
+   "path": "asia/china/guangdong",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__guangdong.map",
+   "size": 180844477,
+   "sha256": "64ff4ad9446fff31f37e1f009e0986c5e4535da64c54d38cd68e6122c5dc1a6f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    19.95851,
+    109.2565,
+    25.62432,
+    117.765
+   ]
+  },
+  {
+   "region": "asia/china/guangxi",
+   "path": "asia/china/guangxi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__guangxi.map",
+   "size": 69993964,
+   "sha256": "9bc19c968cf33a44043c84b34479dd0070fcc3ad603ed30bb5fcc88e854d5c21",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    20.64224,
+    104.3419,
+    26.49648,
+    112.1654
+   ]
+  },
+  {
+   "region": "asia/china/guizhou",
+   "path": "asia/china/guizhou",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/hainan",
+   "path": "asia/china/hainan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__hainan.map",
+   "size": 20146243,
+   "sha256": "2e5fcf594f5fd9a74813890386a0c745e992a1ee24632903c66620e6b2542e33",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    14.19739,
+    108.2153,
+    20.50385,
+    118.5373
+   ]
+  },
+  {
+   "region": "asia/china/hebei",
+   "path": "asia/china/hebei",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__hebei.map",
+   "size": 134364450,
+   "sha256": "e6414afa8338d7a1ba231fe1942b48bd55b8a9dd9e34926f9377f12a830a2a7b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    35.94299,
+    113.351,
+    42.72487,
+    120.0982
+   ]
+  },
+  {
+   "region": "asia/china/heilongjiang",
+   "path": "asia/china/heilongjiang",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/henan",
+   "path": "asia/china/henan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__henan.map",
+   "size": 71243127,
+   "sha256": "e85324864720db01c2b0423a91537440414fe402dda4f2a8b8680eb5138b8c1f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    31.27805,
+    110.2458,
+    36.46801,
+    116.747
+   ]
+  },
+  {
+   "region": "asia/china/hong-kong",
+   "path": "asia/china/hong-kong",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/hubei",
+   "path": "asia/china/hubei",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__hubei.map",
+   "size": 68206268,
+   "sha256": "f37e186d8a317c21095550dcb21810b2293b3e64eb8b23f78688acae68ab0868",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    28.93006,
+    108.2597,
+    33.37343,
+    116.2361
+   ]
+  },
+  {
+   "region": "asia/china/hunan",
+   "path": "asia/china/hunan",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/inner-mongolia",
+   "path": "asia/china/inner-mongolia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__inner-mongolia.map",
+   "size": 184544796,
+   "sha256": "13d42f1df2fb35e7bb101e698129c339fdd63b91bc11a968eeabb8d697990240",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.29962,
+    97.04328,
+    53.54515,
+    126.1767
+   ]
+  },
+  {
+   "region": "asia/china/jiangsu",
+   "path": "asia/china/jiangsu",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/jiangxi",
+   "path": "asia/china/jiangxi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__jiangxi.map",
+   "size": 60506623,
+   "sha256": "f02f46e596fc10b4d3e3e3f0b4fc61e39a58a2398e15e46c9227ae6379599f02",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    24.37809,
+    113.4688,
+    30.18841,
+    118.5865
+   ]
+  },
+  {
+   "region": "asia/china/jilin",
+   "path": "asia/china/jilin",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__jilin.map",
+   "size": 48470512,
+   "sha256": "ec32ad6e2b43514c4ffbf2c263b0d746476e4d928d931d808cb13d262b01e6f7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.68952,
+    121.5276,
+    46.41469,
+    131.4514
+   ]
+  },
+  {
+   "region": "asia/china/liaoning",
+   "path": "asia/china/liaoning",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/macau",
+   "path": "asia/china/macau",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__macau.map",
+   "size": 2474726,
+   "sha256": "d86f5f116c4f3d67b840a92444d3fb9b440b8e62e8827b660e430e3ed23f837d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    21.97546,
+    113.4272,
+    22.31708,
+    113.7325
+   ]
+  },
+  {
+   "region": "asia/china/ningxia",
+   "path": "asia/china/ningxia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__ningxia.map",
+   "size": 14443060,
+   "sha256": "c966398ddb5754af9ddcff49287020904bb70da8195ef8aee52c0aedbf4ec36c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    35.13272,
+    104.175,
+    39.48606,
+    107.7571
+   ]
+  },
+  {
+   "region": "asia/china/qinghai",
+   "path": "asia/china/qinghai",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/shaanxi",
+   "path": "asia/china/shaanxi",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/shandong",
+   "path": "asia/china/shandong",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__shandong.map",
+   "size": 91390688,
+   "sha256": "ae715b4755fecf856ab448ccd241380b49d36360c7e632b85d6e6cfda9a8349e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    34.27575,
+    114.7133,
+    38.54,
+    123.6632
+   ]
+  },
+  {
+   "region": "asia/china/shanghai",
+   "path": "asia/china/shanghai",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/shanxi",
+   "path": "asia/china/shanxi",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/sichuan",
+   "path": "asia/china/sichuan",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/tianjin",
+   "path": "asia/china/tianjin",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/china/tibet",
+   "path": "asia/china/tibet",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__tibet.map",
+   "size": 118675020,
+   "sha256": "4a1cdc88484785618afcf87dfd17436b7b3a5b2de36542784f5b4abb869d6229",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    27.09968,
+    78.19403,
+    36.63,
+    99.22552
+   ]
+  },
+  {
+   "region": "asia/china/xinjiang",
+   "path": "asia/china/xinjiang",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__xinjiang.map",
+   "size": 169056782,
+   "sha256": "7a2769f8cb2f778fbfdbfccd88fad3387554d4806644c3c09176ee4736f6c6af",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    34.16775,
+    73.31788,
+    49.36201,
+    96.53
+   ]
+  },
+  {
+   "region": "asia/china/yunnan",
+   "path": "asia/china/yunnan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__yunnan.map",
+   "size": 107337899,
+   "sha256": "58bf2ebb61a3da856bc412a7d42a46d8600c677dc1f588064c7a5ac6c10ce2a7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    20.94476,
+    97.32851,
+    29.33518,
+    106.315
+   ]
+  },
+  {
+   "region": "asia/china/zhejiang",
+   "path": "asia/china/zhejiang",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__china__zhejiang.map",
+   "size": 103947907,
+   "sha256": "dd1d9132908b6c405b1d7e83e0a12570a7149ff6885f37274e10ecd8c817c794",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    26.59164,
+    117.9206,
+    31.29078,
+    123.9379
+   ]
+  },
+  {
+   "region": "asia/east-timor",
+   "path": "asia/east-timor",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/gcc-states",
+   "path": "asia/gcc-states",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/india",
+   "path": "asia/india",
+   "status": "needs-funding",
+   "osmBytes": 1715493476
+  },
+  {
+   "region": "asia/india/central-zone",
+   "path": "asia/india/central-zone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__india__central-zone.map",
+   "size": 334426121,
+   "sha256": "6bbccd32f9e149162ad773a51e9a6f57f2fe8439ac1f957eb70f50e7fef7e010",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    17.67092,
+    73.91489,
+    31.59075,
+    84.74657
+   ]
+  },
+  {
+   "region": "asia/india/eastern-zone",
+   "path": "asia/india/eastern-zone",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/india/north-eastern-zone",
+   "path": "asia/india/north-eastern-zone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__india__north-eastern-zone.map",
+   "size": 123532827,
+   "sha256": "b03bab65c21c6bd7931f1d17c0ffb7c0754f91292cbc22129fc969e514b9cd18",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    21.82712,
+    87.90852,
+    29.52883,
+    97.51989
+   ]
+  },
+  {
+   "region": "asia/india/northern-zone",
+   "path": "asia/india/northern-zone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__india__northern-zone.map",
+   "size": 224241775,
+   "sha256": "da44152a4888bad378b5f7a69427ff200733a384a1fc5a5fc918ea4e3a97aadc",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    22.94688,
+    69.33908,
+    35.83091,
+    79.58883
+   ]
+  },
+  {
+   "region": "asia/india/southern-zone",
+   "path": "asia/india/southern-zone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__india__southern-zone.map",
+   "size": 553338270,
+   "sha256": "0dfcd0212a915be66d21c4f6a317303cffafd808b85e867bb85f294b0b863f6e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.843921,
+    70.10789,
+    20.02268,
+    95.61383
+   ]
+  },
+  {
+   "region": "asia/india/western-zone",
+   "path": "asia/india/western-zone",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__india__western-zone.map",
+   "size": 219684970,
+   "sha256": "aa331e8255f67d052f225fe3711e7ff104319e5571ed9b71e9d3daf9f43ed1a8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    14.28929,
+    67.57457,
+    24.81756,
+    81.01362
+   ]
+  },
+  {
+   "region": "asia/indonesia",
+   "path": "asia/indonesia",
+   "status": "needs-funding",
+   "osmBytes": 1742003128
+  },
+  {
+   "region": "asia/indonesia/java",
+   "path": "asia/indonesia/java",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/indonesia/kalimantan",
+   "path": "asia/indonesia/kalimantan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__indonesia__kalimantan.map",
+   "size": 172976881,
+   "sha256": "a9d137b23f044799888f3bd60098ddffa2f24d1ff531e6717ac19c9ee684ea00",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -5.69958,
+    104.8606,
+    4.504166,
+    120.0267
+   ]
+  },
+  {
+   "region": "asia/indonesia/maluku",
+   "path": "asia/indonesia/maluku",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__indonesia__maluku.map",
+   "size": 53327108,
+   "sha256": "b017b3c5f79a67029ca5dbccd48094feb514e9ab67ddee3561b5933880db284c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -9.624903,
+    123.7928,
+    3.827232,
+    135.512
+   ]
+  },
+  {
+   "region": "asia/indonesia/nusa-tenggara",
+   "path": "asia/indonesia/nusa-tenggara",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__indonesia__nusa-tenggara.map",
+   "size": 185286773,
+   "sha256": "49d111ce20bb94d410f760bb71f6e7fa00016dc58d4ecc6847cac67f425070a3",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -11.70655,
+    114.3089,
+    -6.575509,
+    128.508
+   ]
+  },
+  {
+   "region": "asia/indonesia/papua",
+   "path": "asia/indonesia/papua",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/indonesia/sulawesi",
+   "path": "asia/indonesia/sulawesi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__indonesia__sulawesi.map",
+   "size": 182483730,
+   "sha256": "e490753211a62ec6fa316a72361c19d7c5a8bbf5feef6b1ec09d174f47458637",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -8.12115,
+    116.1518,
+    6.048258,
+    128.0523
+   ]
+  },
+  {
+   "region": "asia/indonesia/sumatra",
+   "path": "asia/indonesia/sumatra",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__indonesia__sumatra.map",
+   "size": 321502448,
+   "sha256": "5ec22784a8e24bad0c3367955b9c5af384ff1296962d10cbed02c39669c06a68",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -7.269929,
+    92.66481,
+    7.09933,
+    109.8524
+   ]
+  },
+  {
+   "region": "asia/iran",
+   "path": "asia/iran",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__iran.map",
+   "size": 303229819,
+   "sha256": "63b58dc73d29cdf9e70e220c6acbb295f217a068833daf088e8dce6f08208b18",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    23.93947,
+    43.92303,
+    39.89045,
+    63.45413
+   ]
+  },
+  {
+   "region": "asia/iraq",
+   "path": "asia/iraq",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__iraq.map",
+   "size": 108685009,
+   "sha256": "2ff60523691d173fd3568f4b26dfc55fa0a25420c9cbf8670ce3220a2ca7dfeb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    28.91775,
+    38.684,
+    37.49063,
+    49.65108
+   ]
+  },
+  {
+   "region": "asia/israel-and-palestine",
+   "path": "asia/israel-and-palestine",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__israel-and-palestine.map",
+   "size": 97595531,
+   "sha256": "840422f6690576e47b9e659c7517bc52a3c5f759f569919aadcd65985c1736b4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    29.3396,
+    33.89994,
+    33.55436,
+    36.01531
+   ]
+  },
+  {
+   "region": "asia/japan",
+   "path": "asia/japan",
+   "status": "needs-funding",
+   "osmBytes": 2575231766
+  },
+  {
+   "region": "asia/japan/chubu",
+   "path": "asia/japan/chubu",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/japan/chugoku",
+   "path": "asia/japan/chugoku",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__chugoku.map",
+   "size": 180707287,
+   "sha256": "82d169dd7aee4b85958a97824151832ff72e22e31be1b81f1dcc142b817d614e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    33.44225,
+    129.7975,
+    37.0681,
+    134.6244
+   ]
+  },
+  {
+   "region": "asia/japan/hokkaido",
+   "path": "asia/japan/hokkaido",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__hokkaido.map",
+   "size": 175899259,
+   "sha256": "36aaf33f260deff2ae5a06ce02d0464869cd40a38be3cbe2c7d367ce6ae4f9a4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.05098,
+    137.8346,
+    45.9154,
+    146.3476
+   ]
+  },
+  {
+   "region": "asia/japan/kansai",
+   "path": "asia/japan/kansai",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__kansai.map",
+   "size": 306472846,
+   "sha256": "f84ef1964b8a8a65e4adfa441ad6a607fd8164877fffffc3a5709c7b8483b9fc",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.97898,
+    133.8644,
+    36.5582,
+    137.7573
+   ]
+  },
+  {
+   "region": "asia/japan/kanto",
+   "path": "asia/japan/kanto",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__kanto.map",
+   "size": 480690581,
+   "sha256": "aefe7362dc6b7f83b419f040d8c8a9fddb7e18b11a5277e2fdabdbc3414ab08e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    19.98228,
+    134.4757,
+    37.25988,
+    154.5709
+   ]
+  },
+  {
+   "region": "asia/japan/kyushu",
+   "path": "asia/japan/kyushu",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__kyushu.map",
+   "size": 277571651,
+   "sha256": "cffb60d39d26e429f6ad22c83e515cdf8badd375573bf11e7a7bfca607dc3a92",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    21.28691,
+    122.4814,
+    35.19724,
+    132.9044
+   ]
+  },
+  {
+   "region": "asia/japan/shikoku",
+   "path": "asia/japan/shikoku",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__shikoku.map",
+   "size": 77841284,
+   "sha256": "11455a652d831aa77a43d157271bcb9672f49e2f3cc5fb4ffec1c2c348d60c01",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.12959,
+    131.6698,
+    34.75151,
+    135.2794
+   ]
+  },
+  {
+   "region": "asia/japan/tohoku",
+   "path": "asia/japan/tohoku",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__japan__tohoku.map",
+   "size": 248008849,
+   "sha256": "5bcb08dbdb31293b0cc333e4dffb86592f7a5e6d68c2a0b3500872d7ecf0229e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.42861,
+    138.8325,
+    41.74179,
+    142.9782
+   ]
+  },
+  {
+   "region": "asia/jordan",
+   "path": "asia/jordan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__jordan.map",
+   "size": 31209089,
+   "sha256": "7f67f53a4132fa6dfc7fd088454f2641ddbe6ac6c0d6b151c6ccea5164143fbe",
+   "date": "2026-11-13T21:22:20Z",
+   "bbox": [
+    29.08213,
+    34.76886,
+    33.47922,
+    39.41022
+   ]
+  },
+  {
+   "region": "asia/kazakhstan",
+   "path": "asia/kazakhstan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__kazakhstan.map",
+   "size": 456303999,
+   "sha256": "3c78c3c6a3e90a5fc6ff219927138a29b7b64c8c1ac035b98c4da3817572a6be",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.45346,
+    46.32304,
+    55.60799,
+    87.45359
+   ]
+  },
+  {
+   "region": "asia/kyrgyzstan",
+   "path": "asia/kyrgyzstan",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/laos",
+   "path": "asia/laos",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__laos.map",
+   "size": 62191119,
+   "sha256": "a0a275622d5ae55596f827351396beb9bc850c36913034f43766b9f585304bf7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    13.80159,
+    99.9828,
+    22.62825,
+    107.7503
+   ]
+  },
+  {
+   "region": "asia/lebanon",
+   "path": "asia/lebanon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__lebanon.map",
+   "size": 44646119,
+   "sha256": "d0809a47406b61dd81d5df0b510201e054356586da118bbb057650990899f900",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.95299,
+    34.66799,
+    34.90253,
+    36.73666
+   ]
+  },
+  {
+   "region": "asia/malaysia-singapore-brunei",
+   "path": "asia/malaysia-singapore-brunei",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__malaysia-singapore-brunei.map",
+   "size": 233170681,
+   "sha256": "24597f5fc4d52a47f0d2ee760fbcebb95047c7de531cd810acb7a707f64047b3",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    0.730813,
+    99.15611,
+    7.836849,
+    119.7683
+   ]
+  },
+  {
+   "region": "asia/maldives",
+   "path": "asia/maldives",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__maldives.map",
+   "size": 6603183,
+   "sha256": "f946634bf5606f099a364ddb8efd6698ce5cad5d704d4ef1765699ce7f909b65",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -1.46,
+    71.6,
+    7.79,
+    74.6
+   ]
+  },
+  {
+   "region": "asia/mongolia",
+   "path": "asia/mongolia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__mongolia.map",
+   "size": 161394701,
+   "sha256": "8a4f62e14634b28205cf637632a7d9d0f02e718c19e4557897c00c8cf1dc3227",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.40035,
+    87.60255,
+    52.29582,
+    120.1201
+   ]
+  },
+  {
+   "region": "asia/myanmar",
+   "path": "asia/myanmar",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/nepal",
+   "path": "asia/nepal",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__nepal.map",
+   "size": 404239158,
+   "sha256": "366a1722c10c6cf782f8ce3e40619c6fcb6b70cfc9f667be259d25b2e50a424b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    26.2445,
+    79.94913,
+    30.57822,
+    88.32213
+   ]
+  },
+  {
+   "region": "asia/north-korea",
+   "path": "asia/north-korea",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__north-korea.map",
+   "size": 106112559,
+   "sha256": "046150f674307302efa86c2570f28304faa937d02f42a32770e754200a612618",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.51103,
+    123.597,
+    43.12043,
+    131.7447
+   ]
+  },
+  {
+   "region": "asia/pakistan",
+   "path": "asia/pakistan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__pakistan.map",
+   "size": 208776454,
+   "sha256": "d776425ba5ddfc720185e15a73e317ae86b4bd8c56ca013261546b6765bcdbac",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    23.2763,
+    60.72168,
+    37.20667,
+    77.32427
+   ]
+  },
+  {
+   "region": "asia/philippines",
+   "path": "asia/philippines",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/south-korea",
+   "path": "asia/south-korea",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__south-korea.map",
+   "size": 284111472,
+   "sha256": "729879e475e7af153613a2421f319a0b52b025cf8cb2d850823e6e7d437936ef",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.26076,
+    124.2188,
+    38.74966,
+    132.4386
+   ]
+  },
+  {
+   "region": "asia/sri-lanka",
+   "path": "asia/sri-lanka",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__sri-lanka.map",
+   "size": 145695499,
+   "sha256": "a44693e621d0a2b31b3958ff21f3f4337b36306197d516e734597ba9400ed65e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.521275,
+    79.06416,
+    10.17153,
+    82.74612
+   ]
+  },
+  {
+   "region": "asia/syria",
+   "path": "asia/syria",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/taiwan",
+   "path": "asia/taiwan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__taiwan.map",
+   "size": 260684390,
+   "sha256": "1a328eadc0930831ba45ce61d136d12451bc3022cd1e65d818e1a1cb634492c2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    20.62799,
+    118.0036,
+    26.70305,
+    123.0312
+   ]
+  },
+  {
+   "region": "asia/tajikistan",
+   "path": "asia/tajikistan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__tajikistan.map",
+   "size": 58228153,
+   "sha256": "5de2fd8fb591f13c93c619ca25058d61a32fd6716063e4166e46a220388c344c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.56374,
+    67.2201,
+    41.15502,
+    75.26571
+   ]
+  },
+  {
+   "region": "asia/thailand",
+   "path": "asia/thailand",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__thailand.map",
+   "size": 319413831,
+   "sha256": "d6e9f2bce2cfe729250d764f13c7dbdb8a3f5f0b7fd8462521c2445e6a96be2b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    5.497877,
+    97.03562,
+    20.56875,
+    105.7392
+   ]
+  },
+  {
+   "region": "asia/turkmenistan",
+   "path": "asia/turkmenistan",
+   "status": "unavailable"
+  },
+  {
+   "region": "asia/uzbekistan",
+   "path": "asia/uzbekistan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__uzbekistan.map",
+   "size": 182647256,
+   "sha256": "560c4dcc69fed50ad17a51666d4394e7beb2a6d4a73be34642ee57663abd92c1",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.06636,
+    55.87708,
+    45.71884,
+    73.27463
+   ]
+  },
+  {
+   "region": "asia/vietnam",
+   "path": "asia/vietnam",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/asia__vietnam.map",
+   "size": 296733712,
+   "sha256": "3cfde30461ece4af55f19edb81c39ac017d53d576879c112c182c2989af9c619",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    7.282239,
+    101.9959,
+    23.50214,
+    114.7423
+   ]
+  },
+  {
+   "region": "asia/yemen",
+   "path": "asia/yemen",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/american-oceania",
+   "path": "australia-oceania/american-oceania-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__american-oceania-1.map",
+   "size": 11869192,
+   "sha256": "525f851b6577ddbd20f3155b535859faee5c3b87d986cce007ec34d5d32a3a2c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -17.744,
+    -174.3487,
+    -9.868829,
+    -164.9366
+   ]
+  },
+  {
+   "region": "australia-oceania/american-oceania",
+   "path": "australia-oceania/american-oceania-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__american-oceania-2.map",
+   "size": 57243779,
+   "sha256": "01a3da33341d9ea1055a794d1ab61923f4b7e77fcb3c15d21f66cf627f6b9abc",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    9.803965,
+    141.5357,
+    22.12463,
+    169.9706
+   ]
+  },
+  {
+   "region": "australia-oceania/american-oceania",
+   "path": "australia-oceania/american-oceania-3",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__american-oceania-3.map",
+   "size": 29833141,
+   "sha256": "b9daa6fb6fbd7925bbc0149c3d5df6313966a38580717c51ec96b8b9309fa227",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -3.152732,
+    -180.0,
+    6.287193,
+    -160.1799
+   ]
+  },
+  {
+   "region": "australia-oceania/australia",
+   "path": "australia-oceania/australia",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/cook-islands",
+   "path": "australia-oceania/cook-islands",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/fiji",
+   "path": "australia-oceania/fiji",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/ile-de-clipperton",
+   "path": "australia-oceania/ile-de-clipperton",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/kiribati",
+   "path": "australia-oceania/kiribati-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__kiribati-1.map",
+   "size": 83500,
+   "sha256": "c096a82f523b9e5bff432d24a23bba0d31c8f759d88c274cf6c4d5f640495536",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -3.862181,
+    -180.0,
+    -1.48287,
+    -179.7198
+   ]
+  },
+  {
+   "region": "australia-oceania/kiribati",
+   "path": "australia-oceania/kiribati-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__kiribati-2.map",
+   "size": 98457009,
+   "sha256": "b39b99a69f7e099a4b44c14eebf1df3a9a76764f4af10f7add5c68124cb6bbc2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.93833,
+    -177.7431,
+    6.572283,
+    -146.9336
+   ]
+  },
+  {
+   "region": "australia-oceania/kiribati",
+   "path": "australia-oceania/kiribati-3",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__kiribati-3.map",
+   "size": 15651355,
+   "sha256": "2b0c0fa1fe28ab7453c18a46a3d3c898ed417750eae4f65770c1ec30f79d04f4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -3.870672,
+    167.7684,
+    5.717103,
+    180.0
+   ]
+  },
+  {
+   "region": "australia-oceania/marshall-islands",
+   "path": "australia-oceania/marshall-islands",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__marshall-islands.map",
+   "size": 42099358,
+   "sha256": "591d437ef4aba16c07d17d94964bdf361f1a5b54bbd089c0037e26e5150ba011",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    1.677314,
+    156.7453,
+    18.04606,
+    175.6118
+   ]
+  },
+  {
+   "region": "australia-oceania/micronesia",
+   "path": "australia-oceania/micronesia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__micronesia.map",
+   "size": 55943772,
+   "sha256": "6a2a1a177541d44a0c4e2a3c96923f030a4529367e59850ff67d02269f75e26a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -1.247444,
+    135.2124,
+    13.31917,
+    165.7345
+   ]
+  },
+  {
+   "region": "australia-oceania/nauru",
+   "path": "australia-oceania/nauru",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/new-caledonia",
+   "path": "australia-oceania/new-caledonia",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/new-zealand",
+   "path": "australia-oceania/new-zealand-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__new-zealand-1.map",
+   "size": 437633242,
+   "sha256": "89eff7c25d8170bad335da25e250038071792889f03206e494dcc6fd47e3e9cb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -56.85268,
+    161.996,
+    -32.567,
+    180.0
+   ]
+  },
+  {
+   "region": "australia-oceania/new-zealand",
+   "path": "australia-oceania/new-zealand-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__new-zealand-2.map",
+   "size": 18293579,
+   "sha256": "8e0d86967c80ef4c81c754028a983a55d8a29a63917098c2c8556832053cfa68",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -45.68329,
+    -180.0,
+    -28.388,
+    -173.4849
+   ]
+  },
+  {
+   "region": "australia-oceania/niue",
+   "path": "australia-oceania/niue",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/palau",
+   "path": "australia-oceania/palau",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__palau.map",
+   "size": 9539592,
+   "sha256": "fced24d1c0095279f868a8cb64ccb645c835341b63b1ffe8821e06a24dcbfa72",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    1.521407,
+    130.0034,
+    11.58818,
+    137.0541
+   ]
+  },
+  {
+   "region": "australia-oceania/papua-new-guinea",
+   "path": "australia-oceania/papua-new-guinea",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__papua-new-guinea.map",
+   "size": 113602970,
+   "sha256": "a77f7a9f12a4ef414cc8233bcf9d894f47a8eb6383f7ab545595aa90713134e2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -14.84845,
+    139.1014,
+    2.687814,
+    162.9034
+   ]
+  },
+  {
+   "region": "australia-oceania/pitcairn-islands",
+   "path": "australia-oceania/pitcairn-islands",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__pitcairn-islands.map",
+   "size": 23048134,
+   "sha256": "4752c2301723828dcd9ff79af94345ea198bd28d5f20c1a2311603b83c9f50dd",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -27.76403,
+    -133.1664,
+    -21.49613,
+    -118.2448
+   ]
+  },
+  {
+   "region": "australia-oceania/polynesie-francaise",
+   "path": "australia-oceania/polynesie-francaise",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/samoa",
+   "path": "australia-oceania/samoa",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__samoa.map",
+   "size": 5803020,
+   "sha256": "0a4d77f6acea0f19407524ba2cc739deda42ae77513aa0c00997b1a472e5ee6a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -15.97838,
+    -174.6114,
+    -10.86083,
+    -170.4427
+   ]
+  },
+  {
+   "region": "australia-oceania/solomon-islands",
+   "path": "australia-oceania/solomon-islands",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/tokelau",
+   "path": "australia-oceania/tokelau",
+   "status": "unavailable"
+  },
+  {
+   "region": "australia-oceania/tonga",
+   "path": "australia-oceania/tonga",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__tonga.map",
+   "size": 14811649,
+   "sha256": "6e4b6bcc6aba6b94735072cba163702751d0b37036cb77c25724c9cd95567b83",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -25.78413,
+    -178.7487,
+    -14.05464,
+    -171.2053
+   ]
+  },
+  {
+   "region": "australia-oceania/tuvalu",
+   "path": "australia-oceania/tuvalu-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__tuvalu-1.map",
+   "size": 3601927,
+   "sha256": "11253c60883f7d739110d77dd98be956264fa58bac36b5242e36450c357042bd",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.03801,
+    -180.0,
+    -3.961646,
+    -176.657
+   ]
+  },
+  {
+   "region": "australia-oceania/tuvalu",
+   "path": "australia-oceania/tuvalu-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__tuvalu-2.map",
+   "size": 8237749,
+   "sha256": "ce2d1d5cfe445fd185e6cd9998a70a83b52c806b8b09713e50d8e57368b60757",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.34039,
+    172.8953,
+    -3.961646,
+    180.0
+   ]
+  },
+  {
+   "region": "australia-oceania/vanuatu",
+   "path": "australia-oceania/vanuatu",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__vanuatu.map",
+   "size": 21217997,
+   "sha256": "6fa73515bac798974737398f794d24c8f75ff2e14bf952be0267b9799d6dc303",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -21.74288,
+    163.2086,
+    -12.19626,
+    173.7089
+   ]
+  },
+  {
+   "region": "australia-oceania/wallis-et-futuna",
+   "path": "australia-oceania/wallis-et-futuna",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/australia-oceania__wallis-et-futuna.map",
+   "size": 5922847,
+   "sha256": "fb6e46fd81e8af0557c2a3d9de9b1603b82b3134e10412d3e6760e73045f34b0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -16.35685,
+    -180.0,
+    -8.95868,
+    -174.0553
+   ]
+  },
+  {
+   "region": "central-america/bahamas",
+   "path": "central-america/bahamas",
+   "status": "unavailable"
+  },
+  {
+   "region": "central-america/belize",
+   "path": "central-america/belize",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/central-america__belize.map",
+   "size": 23873705,
+   "sha256": "fa48b4c70eb0fb158663ea2c6dc767403a1f7c1563f09afc1d5dba1905d82de5",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    15.78308,
+    -89.32892,
+    18.5984,
+    -86.75983
+   ]
+  },
+  {
+   "region": "central-america/costa-rica",
+   "path": "central-america/costa-rica",
+   "status": "unavailable"
+  },
+  {
+   "region": "central-america/cuba",
+   "path": "central-america/cuba",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/central-america__cuba.map",
+   "size": 68681486,
+   "sha256": "fca956319e7019068d1b1366f3c440bcfc3d707ed135cd9e10d5cfb490683556",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    19.1533,
+    -85.5242,
+    23.70427,
+    -73.60831
+   ]
+  },
+  {
+   "region": "central-america/el-salvador",
+   "path": "central-america/el-salvador",
+   "status": "unavailable"
+  },
+  {
+   "region": "central-america/guatemala",
+   "path": "central-america/guatemala",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/central-america__guatemala.map",
+   "size": 135925091,
+   "sha256": "75cfd9f7a7a46e8acb609b17d32fae2270279ea358baf0d3cfe1cff1a1094b36",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    12.64168,
+    -92.83303,
+    17.93533,
+    -87.85177
+   ]
+  },
+  {
+   "region": "central-america/haiti-and-domrep",
+   "path": "central-america/haiti-and-domrep",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/central-america__haiti-and-domrep.map",
+   "size": 81778881,
+   "sha256": "cd2b880f79dde08fdf62ce40e4c94efa50f9247975ab9b4741a58b064adf1a60",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    16.89901,
+    -74.92529,
+    21.55307,
+    -67.95482
+   ]
+  },
+  {
+   "region": "central-america/honduras",
+   "path": "central-america/honduras",
+   "status": "unavailable"
+  },
+  {
+   "region": "central-america/jamaica",
+   "path": "central-america/jamaica",
+   "status": "unavailable"
+  },
+  {
+   "region": "central-america/nicaragua",
+   "path": "central-america/nicaragua",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/central-america__nicaragua.map",
+   "size": 61987510,
+   "sha256": "cbbaf04d23ed6dee8e60c0edc5d319ec8f35baee396360f82bbf919750d4c4b8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    10.60177,
+    -88.0774,
+    15.2119,
+    -82.27865
+   ]
+  },
+  {
+   "region": "central-america/panama",
+   "path": "central-america/panama",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/albania",
+   "path": "europe/albania",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__albania.map",
+   "size": 47410129,
+   "sha256": "4e2447ec564534c86685096276d264be0c2cf745fcf493eab6c6def8d5cc654a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    39.52738,
+    18.79648,
+    42.76313,
+    21.16285
+   ]
+  },
+  {
+   "region": "europe/alps",
+   "path": "europe/alps",
+   "status": "needs-funding",
+   "osmBytes": 2338519053
+  },
+  {
+   "region": "europe/andorra",
+   "path": "europe/andorra",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__andorra.map",
+   "size": 2961985,
+   "sha256": "f9a6360ffb2c8743a22a62acf1c2a5b8c52ecfc325dce3cb6e695268682b5fc6",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.3276,
+    1.312368,
+    42.75717,
+    1.887481
+   ]
+  },
+  {
+   "region": "europe/austria",
+   "path": "europe/austria",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/azores",
+   "path": "europe/azores",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/belarus",
+   "path": "europe/belarus",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__belarus.map",
+   "size": 340447662,
+   "sha256": "9432a542e8b95d47e3e027e38c4cc0613a9674d88bff6f87b97f5be32c71b37a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.13441,
+    23.0748,
+    56.27385,
+    32.86947
+   ]
+  },
+  {
+   "region": "europe/belgium",
+   "path": "europe/belgium",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__belgium.map",
+   "size": 557173430,
+   "sha256": "af0f97a4656ff01b2267915494406c4743c41d2726e0bc15be3e6efeea9d78e0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.39489,
+    2.240725,
+    51.69839,
+    6.510265
+   ]
+  },
+  {
+   "region": "europe/bosnia-herzegovina",
+   "path": "europe/bosnia-herzegovina",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__bosnia-herzegovina.map",
+   "size": 163649714,
+   "sha256": "b71ff6b8302ebb035bb81ca30cec5f0c664ab1b0beace58a4d2ca7558797b147",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.45239,
+    15.6156,
+    45.37803,
+    19.72639
+   ]
+  },
+  {
+   "region": "europe/bulgaria",
+   "path": "europe/bulgaria",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__bulgaria.map",
+   "size": 166338357,
+   "sha256": "55c76683b416b0a90ef82a02d6e4d300d53b43babe3e282249d35ebf64f94de8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.12681,
+    22.24875,
+    44.31777,
+    29.28819
+   ]
+  },
+  {
+   "region": "europe/croatia",
+   "path": "europe/croatia",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/cyprus",
+   "path": "europe/cyprus",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__cyprus.map",
+   "size": 34597123,
+   "sha256": "92b901e01c165657e6b2bfa36759b16ac63c76baedf750114393371896c52e5d",
+   "date": "2026-11-13T21:22:20Z",
+   "bbox": [
+    34.13374,
+    31.85244,
+    36.10323,
+    35.06147
+   ]
+  },
+  {
+   "region": "europe/czech-republic",
+   "path": "europe/czech-republic",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__czech-republic.map",
+   "size": 651791391,
+   "sha256": "b848b3b871aa60c1086491e6a68212f8125157a3162c6c384901ef082d626cc0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.44292,
+    11.98477,
+    51.16426,
+    18.96321
+   ]
+  },
+  {
+   "region": "europe/denmark",
+   "path": "europe/denmark",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__denmark.map",
+   "size": 355002052,
+   "sha256": "e91eea8c3c6c9c5f194b39e875d6f7bc444f6190a8f470d0ad819facf8c95baa",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    54.34065,
+    7.6011,
+    58.16239,
+    15.75449
+   ]
+  },
+  {
+   "region": "europe/estonia",
+   "path": "europe/estonia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__estonia.map",
+   "size": 117267955,
+   "sha256": "e54d93c33c961637f8b84342dab4eddd2ef253a2d8626a6a27c4bfe8349d0f20",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    57.39764,
+    20.75166,
+    60.09705,
+    28.31426
+   ]
+  },
+  {
+   "region": "europe/faroe-islands",
+   "path": "europe/faroe-islands",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__faroe-islands.map",
+   "size": 9189600,
+   "sha256": "2d388b0cf67fe06e75413856f275705139dbdcbf13c07997d54909869989a58f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    60.76632,
+    -8.790197,
+    63.00523,
+    -5.415148
+   ]
+  },
+  {
+   "region": "europe/finland",
+   "path": "europe/finland",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france",
+   "path": "europe/france",
+   "status": "needs-funding",
+   "osmBytes": 5116354877
+  },
+  {
+   "region": "europe/france/alsace",
+   "path": "europe/france/alsace",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__alsace.map",
+   "size": 96997058,
+   "sha256": "7e708ebbf56679f6ee2465e9725ded55b75fafdf657324a5df23d6d7950992be",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    47.31798,
+    6.738921,
+    49.17898,
+    8.335465
+   ]
+  },
+  {
+   "region": "europe/france/aquitaine",
+   "path": "europe/france/aquitaine",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__aquitaine.map",
+   "size": 231308340,
+   "sha256": "da480c87b37a109de07853137ae6d940a2a00b37e91f571f4d1db1754f864a18",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.67334,
+    -1.942771,
+    45.81724,
+    1.550577
+   ]
+  },
+  {
+   "region": "europe/france/auvergne",
+   "path": "europe/france/auvergne",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__auvergne.map",
+   "size": 125959417,
+   "sha256": "22ec2c7b5a0e67355befe7204f69656d77e9c2feae3297821f3e3d30a3e4270e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.5146,
+    1.960519,
+    46.90668,
+    4.592907
+   ]
+  },
+  {
+   "region": "europe/france/basse-normandie",
+   "path": "europe/france/basse-normandie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__basse-normandie.map",
+   "size": 113683681,
+   "sha256": "70f4918d13542b7a8d60811dca6f7d9a624e4fa9d73d0de836e8581c42976e96",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.07802,
+    -2.187526,
+    49.98523,
+    1.079067
+   ]
+  },
+  {
+   "region": "europe/france/bourgogne",
+   "path": "europe/france/bourgogne",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__bourgogne.map",
+   "size": 166025953,
+   "sha256": "e405e709e20a9b2de54e4d63f8d61f9145c1c243d7e516db3852c507759dfd6e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.05484,
+    2.743279,
+    48.50136,
+    5.619965
+   ]
+  },
+  {
+   "region": "europe/france/bretagne",
+   "path": "europe/france/bretagne",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__bretagne.map",
+   "size": 231625608,
+   "sha256": "06d6d3cc9a44bc09a6373824dcbf6d7d08c3b819e0d28e00e547299b3dbd503b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.97722,
+    -5.948854,
+    49.50025,
+    -0.914538
+   ]
+  },
+  {
+   "region": "europe/france/centre",
+   "path": "europe/france/centre",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__centre.map",
+   "size": 195000478,
+   "sha256": "d0563a5604af9eedab29b710ad777570e7fe69ceed9aa8b3b5e0a91bb8b23b2c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.24591,
+    -0.048462,
+    49.0423,
+    3.229925
+   ]
+  },
+  {
+   "region": "europe/france/champagne-ardenne",
+   "path": "europe/france/champagne-ardenne",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/corse",
+   "path": "europe/france/corse",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/franche-comte",
+   "path": "europe/france/franche-comte",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__franche-comte.map",
+   "size": 98551504,
+   "sha256": "1eb55343f6da1d79961346aa278e3dc33ef2b1c973f17a0bf60d92d0a27b634d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.15975,
+    5.15076,
+    48.12537,
+    7.24439
+   ]
+  },
+  {
+   "region": "europe/france/guadeloupe",
+   "path": "europe/france/guadeloupe",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/guyane",
+   "path": "europe/france/guyane",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/haute-normandie",
+   "path": "europe/france/haute-normandie",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/ile-de-france",
+   "path": "europe/france/ile-de-france",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__ile-de-france.map",
+   "size": 218505651,
+   "sha256": "08989afb4de1264590a9f71f15a6b878ccd053710d98b1f2d2e32356145c24cd",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.01918,
+    1.345097,
+    49.34271,
+    3.660409
+   ]
+  },
+  {
+   "region": "europe/france/languedoc-roussillon",
+   "path": "europe/france/languedoc-roussillon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__languedoc-roussillon.map",
+   "size": 198506220,
+   "sha256": "41236c96dc48afd4f04a86e8009d0a5b6d6edfe3d5e8248cd46a964b68555bda",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.22755,
+    1.586256,
+    45.07821,
+    4.947979
+   ]
+  },
+  {
+   "region": "europe/france/limousin",
+   "path": "europe/france/limousin",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__limousin.map",
+   "size": 79426215,
+   "sha256": "f5055b3feb5ab1845d0cdb648a3c9770d6ecd982aba70a7d377d14d9f93e639b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.81842,
+    0.527097,
+    46.55781,
+    2.71384
+   ]
+  },
+  {
+   "region": "europe/france/lorraine",
+   "path": "europe/france/lorraine",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__lorraine.map",
+   "size": 136918008,
+   "sha256": "b8e0a203ca7136cb053440f13291a1022ee1d673b9184d760ef8060ac2759d5f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    47.71188,
+    4.786022,
+    49.71946,
+    7.740105
+   ]
+  },
+  {
+   "region": "europe/france/martinique",
+   "path": "europe/france/martinique",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/mayotte",
+   "path": "europe/france/mayotte",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__mayotte.map",
+   "size": 8038055,
+   "sha256": "b619b4866ed4e04e6404d4f02d12c9dac6a7f3f7d83dba20cc503e8c24973adb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.57243,
+    44.52646,
+    -12.04406,
+    45.7784
+   ]
+  },
+  {
+   "region": "europe/france/midi-pyrenees",
+   "path": "europe/france/midi-pyrenees",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__midi-pyrenees.map",
+   "size": 273467711,
+   "sha256": "4b414e6def49c5e3818bbe018398723029621476969e986611d784d308618519",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.46793,
+    -0.427537,
+    45.14779,
+    3.553264
+   ]
+  },
+  {
+   "region": "europe/france/nord-pas-de-calais",
+   "path": "europe/france/nord-pas-de-calais",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__nord-pas-de-calais.map",
+   "size": 173568312,
+   "sha256": "0fd5b54b70858e28f23ede545a80cfd9cf4019203b3d570a50bba0352805d643",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.86764,
+    1.178311,
+    51.38121,
+    4.336622
+   ]
+  },
+  {
+   "region": "europe/france/pays-de-la-loire",
+   "path": "europe/france/pays-de-la-loire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__pays-de-la-loire.map",
+   "size": 259991140,
+   "sha256": "0efeb8545d786d1b07fb547a7b5183e1525a8f25459db7a031f095891ba0688d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.11875,
+    -2.774666,
+    48.67002,
+    1.018996
+   ]
+  },
+  {
+   "region": "europe/france/picardie",
+   "path": "europe/france/picardie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__picardie.map",
+   "size": 113751509,
+   "sha256": "6697db4d2fc67510bb91d2342dc99e5fc899238de6e99cb2db8cdd0806bc70d7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.73599,
+    1.260085,
+    50.47125,
+    4.356744
+   ]
+  },
+  {
+   "region": "europe/france/poitou-charentes",
+   "path": "europe/france/poitou-charentes",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__poitou-charentes.map",
+   "size": 158133453,
+   "sha256": "48814a96026c36f6bb5246f9c74ec396db01be30c0cf321adc3b26b7761f8d33",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.9868,
+    -1.998565,
+    47.27837,
+    1.314991
+   ]
+  },
+  {
+   "region": "europe/france/provence-alpes-cote-d-azur",
+   "path": "europe/france/provence-alpes-cote-d-azur",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__provence-alpes-cote-d-azur.map",
+   "size": 262807649,
+   "sha256": "40f079b72d1f7e5d57efae3408bcec662e75bd407fab280023d067c6566f6a2b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.21539,
+    4.044746,
+    45.22887,
+    7.848528
+   ]
+  },
+  {
+   "region": "europe/france/reunion",
+   "path": "europe/france/reunion",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/france/rhone-alpes",
+   "path": "europe/france/rhone-alpes",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__france__rhone-alpes.map",
+   "size": 384186080,
+   "sha256": "21e6828cb599dbf4007e76dd7b1e44a96428f6b4138b45c78a2c3adaea1eba0b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.01274,
+    3.586075,
+    46.62248,
+    7.29206
+   ]
+  },
+  {
+   "region": "europe/georgia",
+   "path": "europe/georgia",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/germany",
+   "path": "europe/germany",
+   "status": "needs-funding",
+   "osmBytes": 4884251765
+  },
+  {
+   "region": "europe/germany/baden-wuerttemberg",
+   "path": "europe/germany/baden-wuerttemberg",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__baden-wuerttemberg.map",
+   "size": 474516523,
+   "sha256": "8beb55bda0981b05e729cd2f6dd5f166dd4b4259289f5569175b5aef2b83d1f9",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    47.43076,
+    7.406494,
+    49.89456,
+    10.61495
+   ]
+  },
+  {
+   "region": "europe/germany/bayern",
+   "path": "europe/germany/bayern",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__bayern.map",
+   "size": 638532871,
+   "sha256": "935cdf277be737ad5d5a0a622e24a9dc476c395372f69b08f1397214e72b4779",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    47.16543,
+    8.875186,
+    50.66623,
+    13.94947
+   ]
+  },
+  {
+   "region": "europe/germany/berlin",
+   "path": "europe/germany/berlin",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__berlin.map",
+   "size": 57996106,
+   "sha256": "2f30e785e67ee218d31148969140c1ae921c42d6628208bd3e50b4681611d35e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.23446,
+    12.98283,
+    52.7783,
+    13.86225
+   ]
+  },
+  {
+   "region": "europe/germany/brandenburg",
+   "path": "europe/germany/brandenburg",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__brandenburg.map",
+   "size": 212396116,
+   "sha256": "ac6485b075992154edeacdee8312c84c97695e1efcfaf24743ecbe83278b1a17",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.25613,
+    11.16064,
+    53.66295,
+    14.87495
+   ]
+  },
+  {
+   "region": "europe/germany/bremen",
+   "path": "europe/germany/bremen",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/germany/hamburg",
+   "path": "europe/germany/hamburg",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__hamburg.map",
+   "size": 31108222,
+   "sha256": "76c4c43f424e03cce3a22e386761563967a5d9c1dccbb9c6e33902d7a689dd12",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.29183,
+    7.867833,
+    54.16261,
+    10.43196
+   ]
+  },
+  {
+   "region": "europe/germany/hessen",
+   "path": "europe/germany/hessen",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__hessen.map",
+   "size": 259016169,
+   "sha256": "fc529d54b866a8e3dd42497c27d52b1c0c0fa8511f58f5cdbf97343f5c5d380c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.29321,
+    7.668021,
+    51.75916,
+    10.34595
+   ]
+  },
+  {
+   "region": "europe/germany/mecklenburg-vorpommern",
+   "path": "europe/germany/mecklenburg-vorpommern",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__mecklenburg-vorpommern.map",
+   "size": 107255492,
+   "sha256": "afa134d3b87086f2fa6f2a38bcd4063e619a6c826b9734194f9f7da40b98ba35",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.00619,
+    10.48807,
+    55.0837,
+    14.52292
+   ]
+  },
+  {
+   "region": "europe/germany/niedersachsen",
+   "path": "europe/germany/niedersachsen",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__niedersachsen.map",
+   "size": 390749505,
+   "sha256": "208c49e0747c5c89b4a9573346d8fa9d14c9df5d6f4387d095fa9da45d853f64",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.19348,
+    6.195338,
+    54.33955,
+    11.70731
+   ]
+  },
+  {
+   "region": "europe/germany/nordrhein-westfalen",
+   "path": "europe/germany/nordrhein-westfalen",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__nordrhein-westfalen.map",
+   "size": 658887078,
+   "sha256": "1985adf14888580ba5ba34b0f6e45859a9e591f8d8e88ab8a7a81b1e7d735e82",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.22088,
+    5.764417,
+    52.63345,
+    9.568311
+   ]
+  },
+  {
+   "region": "europe/germany/rheinland-pfalz",
+   "path": "europe/germany/rheinland-pfalz",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__rheinland-pfalz.map",
+   "size": 216317681,
+   "sha256": "eb59f956691d6309f733f86ad2dae94853e3ea6f8af07638e4986f22a9d62a71",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.86377,
+    6.009129,
+    51.04404,
+    8.611228
+   ]
+  },
+  {
+   "region": "europe/germany/saarland",
+   "path": "europe/germany/saarland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__saarland.map",
+   "size": 39298826,
+   "sha256": "906133004a5ceea7b1401e464581ac34101222098354e1966c69afc7cfff5350",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.00807,
+    6.254475,
+    49.74146,
+    7.506287
+   ]
+  },
+  {
+   "region": "europe/germany/sachsen",
+   "path": "europe/germany/sachsen",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/germany/sachsen-anhalt",
+   "path": "europe/germany/sachsen-anhalt",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__sachsen-anhalt.map",
+   "size": 139826552,
+   "sha256": "0a70f7cc83d56da6d5794352e87009815153562fec286b3a304c0bef489c56cb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.82887,
+    10.44725,
+    53.1566,
+    13.31268
+   ]
+  },
+  {
+   "region": "europe/germany/schleswig-holstein",
+   "path": "europe/germany/schleswig-holstein",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__schleswig-holstein.map",
+   "size": 124676147,
+   "sha256": "4536990b35f47501feb938e9769ae8c5ef8249fe8819aa15d93bc66fed8085a0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.2569,
+    7.36458,
+    55.24634,
+    11.89931
+   ]
+  },
+  {
+   "region": "europe/germany/thueringen",
+   "path": "europe/germany/thueringen",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__germany__thueringen.map",
+   "size": 128219746,
+   "sha256": "e35b6ad06f72b13f3cf762bbcb72280a0eede95a26af70c00a0333880661b795",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.09971,
+    9.763176,
+    51.75237,
+    12.76106
+   ]
+  },
+  {
+   "region": "europe/great-britain",
+   "path": "europe/great-britain",
+   "status": "needs-funding",
+   "osmBytes": 2201999966
+  },
+  {
+   "region": "europe/greece",
+   "path": "europe/greece",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__greece.map",
+   "size": 284373375,
+   "sha256": "170b42d95e8f0ddba119646c500c37ef92cd8178b56122f6d59729dfda089b17",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    34.49111,
+    18.87064,
+    41.84954,
+    29.75683
+   ]
+  },
+  {
+   "region": "europe/guernsey-jersey",
+   "path": "europe/guernsey-jersey",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/hungary",
+   "path": "europe/hungary",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__hungary.map",
+   "size": 293346436,
+   "sha256": "03b85675ac76b9f277018e2c709a0fc826d101f506dea18f0aa1bfccd9f6a01d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.63207,
+    16.00845,
+    48.68921,
+    23.00649
+   ]
+  },
+  {
+   "region": "europe/iceland",
+   "path": "europe/iceland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__iceland.map",
+   "size": 115470211,
+   "sha256": "36db8536d0657cff67a2fb10ab54420b050af1066c8341ddb2b00a0d81b09277",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    62.74553,
+    -25.8,
+    67.60085,
+    -12.31708
+   ]
+  },
+  {
+   "region": "europe/ireland-and-northern-ireland",
+   "path": "europe/ireland-and-northern-ireland",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/isle-of-man",
+   "path": "europe/isle-of-man",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__isle-of-man.map",
+   "size": 5379782,
+   "sha256": "9eaa116754ff65eb1cc689b9355b372670a5d4f7f0ace2f76d571a69f760f6bf",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.63236,
+    -5.534554,
+    54.7706,
+    -3.588718
+   ]
+  },
+  {
+   "region": "europe/italy",
+   "path": "europe/italy",
+   "status": "needs-funding",
+   "osmBytes": 2253349581
+  },
+  {
+   "region": "europe/italy/centro",
+   "path": "europe/italy/centro",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__italy__centro.map",
+   "size": 326839531,
+   "sha256": "b836e0554be9b2bd192f123613dde1cc94a80b4b6979b776890d7f5aba4e7d23",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.11443,
+    9.206459,
+    44.5797,
+    14.76855
+   ]
+  },
+  {
+   "region": "europe/italy/isole",
+   "path": "europe/italy/isole",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__italy__isole.map",
+   "size": 192390681,
+   "sha256": "69f14946232823fe7e00f841b8fcd7f05ffae985197d3dd4ca0cbebba823d06a",
+   "date": "2026-11-13T21:22:20Z",
+   "bbox": [
+    34.97638,
+    7.618453,
+    41.61893,
+    15.80887
+   ]
+  },
+  {
+   "region": "europe/italy/nord-est",
+   "path": "europe/italy/nord-est",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__italy__nord-est.map",
+   "size": 504988734,
+   "sha256": "3fcd8fa81dc26ad7393f6c0f830699a864cab0289f06cb0d87f605d486edce85",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.62977,
+    9.095461,
+    47.20005,
+    14.02878
+   ]
+  },
+  {
+   "region": "europe/italy/nord-ovest",
+   "path": "europe/italy/nord-ovest",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__italy__nord-ovest.map",
+   "size": 479027684,
+   "sha256": "869ddbb988f75ffa32b31908bc6771b05aa686bcec8046ca389844d608039606",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.38099,
+    6.502696,
+    46.74119,
+    11.53336
+   ]
+  },
+  {
+   "region": "europe/italy/sud",
+   "path": "europe/italy/sud",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__italy__sud.map",
+   "size": 361035923,
+   "sha256": "6263209166e7b7ba88c767898cbeba3476ef59d1cd6337febd4b01df568805a4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.70152,
+    12.90131,
+    43.01363,
+    19.22499
+   ]
+  },
+  {
+   "region": "europe/kosovo",
+   "path": "europe/kosovo",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/latvia",
+   "path": "europe/latvia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__latvia.map",
+   "size": 118951332,
+   "sha256": "30be51f683ed27214f4fd5aa0d6ebd0447445d50e3cd250c32d7bd94b9438b79",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    55.56109,
+    19.63348,
+    58.1947,
+    28.35501
+   ]
+  },
+  {
+   "region": "europe/liechtenstein",
+   "path": "europe/liechtenstein",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__liechtenstein.map",
+   "size": 2674144,
+   "sha256": "9a71373bb51975d269013b0bf073a4e2c346f0182e6db497648da0440fa30524",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    46.94774,
+    9.371078,
+    47.37128,
+    9.736217
+   ]
+  },
+  {
+   "region": "europe/lithuania",
+   "path": "europe/lithuania",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/luxembourg",
+   "path": "europe/luxembourg",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__luxembourg.map",
+   "size": 38430844,
+   "sha256": "6947f9b47db05425b8a4401e50b67e4d7a9b6f5a7e2b20bbaff116b7a2d8248a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.34553,
+    5.633033,
+    50.28496,
+    6.632249
+   ]
+  },
+  {
+   "region": "europe/macedonia",
+   "path": "europe/macedonia",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/malta",
+   "path": "europe/malta",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__malta.map",
+   "size": 7159197,
+   "sha256": "6b7d5920582fdfaf5ca21571335a3a7b2b13ad27e6fa8619c7720c6855b15d35",
+   "date": "2026-11-12T21:23:05Z",
+   "bbox": [
+    35.41985,
+    13.9,
+    36.43296,
+    14.9561
+   ]
+  },
+  {
+   "region": "europe/moldova",
+   "path": "europe/moldova",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__moldova.map",
+   "size": 88713112,
+   "sha256": "c05677d8755b09b2854ac9077ca34ec8edaeca45206bb18f053deafc0db823a0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.36164,
+    26.51232,
+    48.59397,
+    30.29249
+   ]
+  },
+  {
+   "region": "europe/monaco",
+   "path": "europe/monaco",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__monaco.map",
+   "size": 449933,
+   "sha256": "d5c5a0f584e79bb10e3dad9ee93387f19b2543167cca0a8597ba76ca4c6e3b14",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.38382,
+    7.308583,
+    43.85293,
+    7.695671
+   ]
+  },
+  {
+   "region": "europe/montenegro",
+   "path": "europe/montenegro",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/netherlands",
+   "path": "europe/netherlands",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands.map",
+   "size": 1012578532,
+   "sha256": "96da15543fa18c198a9732aaff0611d2707f24b33900cc82b8441a440388aef2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.64753,
+    2.836095,
+    54.11786,
+    7.330455
+   ]
+  },
+  {
+   "region": "europe/netherlands/drenthe",
+   "path": "europe/netherlands/drenthe",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__drenthe.map",
+   "size": 47401759,
+   "sha256": "9a48160d8976eb41f2e393894a8c9c16a40b4dc63ca4055c7f61bfae3ea97317",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.51093,
+    6.018592,
+    53.30513,
+    7.195411
+   ]
+  },
+  {
+   "region": "europe/netherlands/flevoland",
+   "path": "europe/netherlands/flevoland",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/netherlands/friesland",
+   "path": "europe/netherlands/friesland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__friesland.map",
+   "size": 69433864,
+   "sha256": "f3a525a4745bda72b21dfe85575e5baee7634972ebdf22214090b90e44e338fd",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.66362,
+    4.497294,
+    53.78089,
+    6.528358
+   ]
+  },
+  {
+   "region": "europe/netherlands/gelderland",
+   "path": "europe/netherlands/gelderland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__gelderland.map",
+   "size": 136884915,
+   "sha256": "957d9479a5b57569a34a3fb1e9ba2d01ef9c4d1d8ef991fbc8e3c49960083df3",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.63231,
+    4.892647,
+    52.62322,
+    6.935752
+   ]
+  },
+  {
+   "region": "europe/netherlands/groningen",
+   "path": "europe/netherlands/groningen",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/netherlands/limburg",
+   "path": "europe/netherlands/limburg",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__limburg.map",
+   "size": 72427078,
+   "sha256": "a541a39c4e1fce4e9770a34a7b7c334ad60b1454423395774c984d2aece78796",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.64753,
+    5.463304,
+    51.87992,
+    6.32939
+   ]
+  },
+  {
+   "region": "europe/netherlands/noord-brabant",
+   "path": "europe/netherlands/noord-brabant",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__noord-brabant.map",
+   "size": 150654575,
+   "sha256": "3b20dfece3bc14ad9dd0e7315af5c64f2bfaca787482120e479e1a8661defa02",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.11808,
+    4.089152,
+    51.93181,
+    6.149354
+   ]
+  },
+  {
+   "region": "europe/netherlands/noord-holland",
+   "path": "europe/netherlands/noord-holland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__noord-holland.map",
+   "size": 137010984,
+   "sha256": "b66b6c1c96830404341d363fe33ab2993bb6b04436279dd47dd79e5e9c2d775e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.06497,
+    3.796906,
+    53.38945,
+    5.478479
+   ]
+  },
+  {
+   "region": "europe/netherlands/overijssel",
+   "path": "europe/netherlands/overijssel",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__overijssel.map",
+   "size": 86087053,
+   "sha256": "aa090d6e630cec32ff3314e569e82593a4fa54d084b7dabc97c5c782b6c61f3d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.01349,
+    5.676793,
+    52.95539,
+    7.175066
+   ]
+  },
+  {
+   "region": "europe/netherlands/utrecht",
+   "path": "europe/netherlands/utrecht",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__utrecht.map",
+   "size": 69314267,
+   "sha256": "61fe60b2c5d40b89565bd04399af48470f5e82e1143e8ed19c7c735d8f8e8792",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.75615,
+    4.690849,
+    52.40494,
+    5.72829
+   ]
+  },
+  {
+   "region": "europe/netherlands/zeeland",
+   "path": "europe/netherlands/zeeland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__netherlands__zeeland.map",
+   "size": 34053028,
+   "sha256": "56c7b77ce2e8a870e7494993ce91d942c958406803268f5d4b25c42fb8ee862d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.09717,
+    3.133941,
+    51.97013,
+    4.378407
+   ]
+  },
+  {
+   "region": "europe/netherlands/zuid-holland",
+   "path": "europe/netherlands/zuid-holland",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/norway",
+   "path": "europe/norway",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/poland",
+   "path": "europe/poland",
+   "status": "needs-funding",
+   "osmBytes": 2119552686
+  },
+  {
+   "region": "europe/poland/dolnoslaskie",
+   "path": "europe/poland/dolnoslaskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__dolnoslaskie.map",
+   "size": 134281517,
+   "sha256": "6d8f0724be37181556c0ea621af4dc8b557a801812cf10c93a5cde42276d7a57",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.98251,
+    14.70839,
+    51.91417,
+    17.90584
+   ]
+  },
+  {
+   "region": "europe/poland/kujawsko-pomorskie",
+   "path": "europe/poland/kujawsko-pomorskie",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/poland/lodzkie",
+   "path": "europe/poland/lodzkie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__lodzkie.map",
+   "size": 118760740,
+   "sha256": "dadad70891ed77b006605f798b2dab1bf04e19373074ffecc3dc515bb022dbed",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.73091,
+    17.96227,
+    52.50624,
+    20.7691
+   ]
+  },
+  {
+   "region": "europe/poland/lubelskie",
+   "path": "europe/poland/lubelskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__lubelskie.map",
+   "size": 114141120,
+   "sha256": "fbc4464e5d3189c8cfe8ae293ec956d25ad56f4610a93ea2eb4f1f2aa2cfecc2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.13654,
+    21.50285,
+    52.40035,
+    24.26102
+   ]
+  },
+  {
+   "region": "europe/poland/lubuskie",
+   "path": "europe/poland/lubuskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__lubuskie.map",
+   "size": 54056790,
+   "sha256": "cbbdcbd744ffe31d259d8a2a4c05ecd55b45792a86c267a253f8c58705a117a7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.24865,
+    14.39548,
+    53.22806,
+    16.52999
+   ]
+  },
+  {
+   "region": "europe/poland/malopolskie",
+   "path": "europe/poland/malopolskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__malopolskie.map",
+   "size": 159777522,
+   "sha256": "3fe380239b3596ce11d474918f571e5970d1146c3a8b1f2e3f048e0277ee6744",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.06487,
+    18.97492,
+    50.63221,
+    21.53328
+   ]
+  },
+  {
+   "region": "europe/poland/mazowieckie",
+   "path": "europe/poland/mazowieckie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__mazowieckie.map",
+   "size": 243301107,
+   "sha256": "8a9301e886315ba88cc9987d45d5aaf0bd77d4c78ec1666884a40e00f5716234",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.88451,
+    19.13355,
+    53.6116,
+    23.25637
+   ]
+  },
+  {
+   "region": "europe/poland/opolskie",
+   "path": "europe/poland/opolskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__opolskie.map",
+   "size": 43457213,
+   "sha256": "ff8fafde0ad51e3db627652edae549647693a62b449c4bdc8dd0be64793c9952",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.85766,
+    16.8015,
+    51.3014,
+    18.80219
+   ]
+  },
+  {
+   "region": "europe/poland/podkarpackie",
+   "path": "europe/poland/podkarpackie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__podkarpackie.map",
+   "size": 132808906,
+   "sha256": "ef9e0dbf22ac168edae28b0f8f9b1e296afacec768daadb97bdefde36bc83111",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.88642,
+    21.03433,
+    50.92591,
+    23.6536
+   ]
+  },
+  {
+   "region": "europe/poland/podlaskie",
+   "path": "europe/poland/podlaskie",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/poland/pomorskie",
+   "path": "europe/poland/pomorskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__pomorskie.map",
+   "size": 91834400,
+   "sha256": "1aac647ed1a138fdaf2338bf2a8fd6ab34bb16143a76e3fc4f73b9f6556fd996",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.3806,
+    16.58699,
+    55.17949,
+    19.76069
+   ]
+  },
+  {
+   "region": "europe/poland/slaskie",
+   "path": "europe/poland/slaskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__slaskie.map",
+   "size": 144632338,
+   "sha256": "d350024b77e0f1258ef39ee2840244022dfd2d4edd0733eaec49845222d15ce3",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.28,
+    17.92213,
+    51.2129,
+    20.08542
+   ]
+  },
+  {
+   "region": "europe/poland/swietokrzyskie",
+   "path": "europe/poland/swietokrzyskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__swietokrzyskie.map",
+   "size": 75686938,
+   "sha256": "25655be153cd0c15bd09ce6269f3b490a9c964c7777e6be8433dd94f36420646",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.07974,
+    19.59901,
+    51.44824,
+    21.9758
+   ]
+  },
+  {
+   "region": "europe/poland/warminsko-mazurskie",
+   "path": "europe/poland/warminsko-mazurskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__warminsko-mazurskie.map",
+   "size": 70435468,
+   "sha256": "40f8c25f3d5de5556fd99c5366d1fff0508a07557a47d8aead665793888c81b8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.02575,
+    19.01666,
+    54.61456,
+    22.92058
+   ]
+  },
+  {
+   "region": "europe/poland/wielkopolskie",
+   "path": "europe/poland/wielkopolskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__wielkopolskie.map",
+   "size": 133199041,
+   "sha256": "117fc4dc7684ad6edcc8c3bf937b6b4123998db1c7ccf00e8ba636e2da9ebe18",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.98403,
+    15.66036,
+    53.78105,
+    19.22931
+   ]
+  },
+  {
+   "region": "europe/poland/zachodniopomorskie",
+   "path": "europe/poland/zachodniopomorskie",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__poland__zachodniopomorskie.map",
+   "size": 81766266,
+   "sha256": "e068c54905e91f8c6dd0b0bc376af17cd44d64595c61b73d566bf44ad297875c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.51742,
+    13.89022,
+    55.10664,
+    17.08847
+   ]
+  },
+  {
+   "region": "europe/portugal",
+   "path": "europe/portugal",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__portugal.map",
+   "size": 407581750,
+   "sha256": "ae45c98eccef6aa2f0f740adc11efe4c5062f4f2401d2c36c8833aabb7b0007e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    29.6,
+    -31.7,
+    42.2639,
+    -6.079513
+   ]
+  },
+  {
+   "region": "europe/romania",
+   "path": "europe/romania",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__romania.map",
+   "size": 318718877,
+   "sha256": "de2a63bc7d9a5924ba2bd7537dacd0c169ac8d2dfa825961701f39c73f2b118a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.51247,
+    20.14181,
+    48.36948,
+    30.37896
+   ]
+  },
+  {
+   "region": "europe/serbia",
+   "path": "europe/serbia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__serbia.map",
+   "size": 212459919,
+   "sha256": "2956de70630d7b27e36776b4820b1eeea7aeb897e8094f46d9b5f8f1588bc02f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.12979,
+    18.70894,
+    46.29207,
+    23.11035
+   ]
+  },
+  {
+   "region": "europe/slovakia",
+   "path": "europe/slovakia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__slovakia.map",
+   "size": 255287860,
+   "sha256": "185b55d0577ec77c7853383cba268e29cd65b7df7d1abb04220dd307a4e09270",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    47.62646,
+    16.73071,
+    49.7186,
+    22.67051
+   ]
+  },
+  {
+   "region": "europe/slovenia",
+   "path": "europe/slovenia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__slovenia.map",
+   "size": 251234050,
+   "sha256": "584a68d4d24ce2afa1d0f0e50cbf0c3eabd17a3670052f55ae3a2bc5887057b4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.32081,
+    13.20509,
+    46.97956,
+    16.70034
+   ]
+  },
+  {
+   "region": "europe/spain",
+   "path": "europe/spain",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/andalucia",
+   "path": "europe/spain/andalucia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__andalucia.map",
+   "size": 187766646,
+   "sha256": "c2555d8dd6a63d3a17f8cd09e444dfa8008257759b6f4b781ff96ce72e100052",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    35.60638,
+    -7.62466,
+    38.83347,
+    -1.232095
+   ]
+  },
+  {
+   "region": "europe/spain/aragon",
+   "path": "europe/spain/aragon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__aragon.map",
+   "size": 91862551,
+   "sha256": "f6e40a0158dbffb677e2230e37d09175b48b8469c816925e0bacc13030f8b79f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    39.73833,
+    -2.27907,
+    43.02677,
+    0.872562
+   ]
+  },
+  {
+   "region": "europe/spain/asturias",
+   "path": "europe/spain/asturias",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/cantabria",
+   "path": "europe/spain/cantabria",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__cantabria.map",
+   "size": 27877901,
+   "sha256": "8374b37c5ce5ac64606cb28038d163261d6c6e6ea08c0474076712f8d32d98fe",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.65458,
+    -4.961622,
+    43.96548,
+    -3.044983
+   ]
+  },
+  {
+   "region": "europe/spain/castilla-la-mancha",
+   "path": "europe/spain/castilla-la-mancha",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__castilla-la-mancha.map",
+   "size": 95970259,
+   "sha256": "ae6114aaa8aff1c1986dac1e40656b26a5733f1dc4445d391c35e985f0c8a8f7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.9201,
+    -5.51111,
+    41.43223,
+    -0.812552
+   ]
+  },
+  {
+   "region": "europe/spain/castilla-y-leon",
+   "path": "europe/spain/castilla-y-leon",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/cataluna",
+   "path": "europe/spain/cataluna",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__cataluna.map",
+   "size": 232896134,
+   "sha256": "e854c90bc5fb96429931a29b41188f1e5498bf065ad37cc7e114dafb59d959b7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.11245,
+    0.056383,
+    42.9632,
+    4.274794
+   ]
+  },
+  {
+   "region": "europe/spain/ceuta",
+   "path": "europe/spain/ceuta",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/extremadura",
+   "path": "europe/spain/extremadura",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/galicia",
+   "path": "europe/spain/galicia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__galicia.map",
+   "size": 94337932,
+   "sha256": "7d0df2eb94c836b82adf6fa8a372e3c5422f95be55a398ce337e3c1537dc28f1",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.70443,
+    -9.879014,
+    44.24855,
+    -6.627066
+   ]
+  },
+  {
+   "region": "europe/spain/islas-baleares",
+   "path": "europe/spain/islas-baleares",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__islas-baleares.map",
+   "size": 41657550,
+   "sha256": "046898cb6bfdf3e04843904b406d4cb693fc4619ba04aa652eca76e08f99d1da",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.95675,
+    0.515229,
+    40.8098,
+    5.038349
+   ]
+  },
+  {
+   "region": "europe/spain/la-rioja",
+   "path": "europe/spain/la-rioja",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/madrid",
+   "path": "europe/spain/madrid",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__madrid.map",
+   "size": 67417113,
+   "sha256": "b33804f81095707e9cba5edee26a8021b63ad57955649a3b93da560d7c8f0c61",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    39.78116,
+    -4.689539,
+    41.26864,
+    -2.950423
+   ]
+  },
+  {
+   "region": "europe/spain/melilla",
+   "path": "europe/spain/melilla",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/murcia",
+   "path": "europe/spain/murcia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__murcia.map",
+   "size": 30378475,
+   "sha256": "8575360bd9128ccd179d1f3f08758351ae209129a071f044ac655cda92633983",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.01215,
+    -2.451246,
+    38.86024,
+    -0.147194
+   ]
+  },
+  {
+   "region": "europe/spain/navarra",
+   "path": "europe/spain/navarra",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/spain/pais-vasco",
+   "path": "europe/spain/pais-vasco",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__pais-vasco.map",
+   "size": 59380633,
+   "sha256": "7c4f3e6b0b6af3bd27e8624b5bd39b651e8eb9b3ebbf3ef3a977de4c41f1c38b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.36919,
+    -3.554342,
+    43.84729,
+    -1.566284
+   ]
+  },
+  {
+   "region": "europe/spain/valencia",
+   "path": "europe/spain/valencia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__spain__valencia.map",
+   "size": 122808830,
+   "sha256": "5642e8e8f054a49625a562850598abe63d0781d7991c8ccf51b09eb3b3d38bf0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.74341,
+    -1.631649,
+    40.89328,
+    1.786396
+   ]
+  },
+  {
+   "region": "europe/sweden",
+   "path": "europe/sweden",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/switzerland",
+   "path": "europe/switzerland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__switzerland.map",
+   "size": 377215469,
+   "sha256": "62a48faee65b3862537cf5cdda9e5759e73679d054bc1d1fa6f631fbe9f66952",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.71642,
+    5.854418,
+    47.91126,
+    10.59584
+   ]
+  },
+  {
+   "region": "europe/turkey",
+   "path": "europe/turkey",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__turkey.map",
+   "size": 635227911,
+   "sha256": "9d45a72c04aeaa65ae2677f404e60ef2599b3edb9d5061827ff8643946834513",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    35.617,
+    25.42398,
+    43.17481,
+    44.95992
+   ]
+  },
+  {
+   "region": "europe/ukraine",
+   "path": "europe/ukraine",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__ukraine.map",
+   "size": 903781429,
+   "sha256": "89b5e33334927d5e7eebdad2872f246fc9280e0ea02d74e5a31d2a0c429227f8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.90862,
+    22.03264,
+    52.4865,
+    40.33811
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england",
+   "path": "europe/united-kingdom/england",
+   "status": "needs-funding",
+   "osmBytes": 1714949385
+  },
+  {
+   "region": "europe/united-kingdom/england/bedfordshire",
+   "path": "europe/united-kingdom/england/bedfordshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/berkshire",
+   "path": "europe/united-kingdom/england/berkshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/bristol",
+   "path": "europe/united-kingdom/england/bristol",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/buckinghamshire",
+   "path": "europe/united-kingdom/england/buckinghamshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/cambridgeshire",
+   "path": "europe/united-kingdom/england/cambridgeshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/cheshire",
+   "path": "europe/united-kingdom/england/cheshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/cornwall",
+   "path": "europe/united-kingdom/england/cornwall",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/cumbria",
+   "path": "europe/united-kingdom/england/cumbria",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__cumbria.map",
+   "size": 38977523,
+   "sha256": "558346e3904b1ebccd7654df196d21e542bf5bf9bf2ae0be161b047f3365465c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.80063,
+    -4.007471,
+    55.28863,
+    -2.059588
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/derbyshire",
+   "path": "europe/united-kingdom/england/derbyshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__derbyshire.map",
+   "size": 30599682,
+   "sha256": "f03bf4ba9c43745cac1de647810c12e221fb9b513309af90ea5ef2e22ad63335",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.5955,
+    -2.135756,
+    53.64172,
+    -1.064792
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/devon",
+   "path": "europe/united-kingdom/england/devon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__devon.map",
+   "size": 45806262,
+   "sha256": "32e3bab10f78ad3d566445f10d7f10eaa4811a56d7a31e1e28808dc1b69d88a2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.01104,
+    -4.852335,
+    51.40895,
+    -2.781604
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/dorset",
+   "path": "europe/united-kingdom/england/dorset",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/durham",
+   "path": "europe/united-kingdom/england/durham",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/east-sussex",
+   "path": "europe/united-kingdom/england/east-sussex",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/east-yorkshire-with-hull",
+   "path": "europe/united-kingdom/england/east-yorkshire-with-hull",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/essex",
+   "path": "europe/united-kingdom/england/essex",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__essex.map",
+   "size": 37031140,
+   "sha256": "e918bcd37c93949e580a1e615ea35534e3ece39103263d0c59c03cb46ce15d55",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.35008,
+    -0.119651,
+    52.19464,
+    1.407251
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/gloucestershire",
+   "path": "europe/united-kingdom/england/gloucestershire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/greater-london",
+   "path": "europe/united-kingdom/england/greater-london",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__greater-london.map",
+   "size": 91964799,
+   "sha256": "1901b26ec8c21135327a6ba34e0241cf79de163f7b3d3e1d9f391af34ac45f08",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.18554,
+    -0.611482,
+    51.79344,
+    0.435437
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/greater-manchester",
+   "path": "europe/united-kingdom/england/greater-manchester",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__greater-manchester.map",
+   "size": 43644589,
+   "sha256": "e0eac5fcbe61829bb5f6dc5f1a6bc916cfb233d780968f828ad4483b88e3f463",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.22613,
+    -2.832097,
+    53.78742,
+    -1.80804
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/hampshire",
+   "path": "europe/united-kingdom/england/hampshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__hampshire.map",
+   "size": 48396659,
+   "sha256": "9b479252bb160f49b3ae3aaba035f190c983f451c3df6b073af09d659706fe56",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.59041,
+    -2.059101,
+    51.48712,
+    -0.626306
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/herefordshire",
+   "path": "europe/united-kingdom/england/herefordshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__herefordshire.map",
+   "size": 9803734,
+   "sha256": "9a4d186dd8da85e516b623e9393bc2d6476e3484ade049c77f7ff2f1a4c09dc7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.72618,
+    -3.242889,
+    52.49531,
+    -2.238434
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/hertfordshire",
+   "path": "europe/united-kingdom/england/hertfordshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/isle-of-wight",
+   "path": "europe/united-kingdom/england/isle-of-wight",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__isle-of-wight.map",
+   "size": 6268730,
+   "sha256": "4fca2e0f4e2a34ad6206dc491f5b85510459cf17089789b56e71249b37816116",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.40555,
+    -1.759074,
+    50.90102,
+    -0.93137
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/kent",
+   "path": "europe/united-kingdom/england/kent",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__kent.map",
+   "size": 41281150,
+   "sha256": "f7aaea3d20128a6887f4d1fc027f5351ee4791f06ce25654975285466bc410f0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.71013,
+    -0.069454,
+    51.59664,
+    1.621262
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/lancashire",
+   "path": "europe/united-kingdom/england/lancashire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/leicestershire",
+   "path": "europe/united-kingdom/england/leicestershire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/lincolnshire",
+   "path": "europe/united-kingdom/england/lincolnshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/merseyside",
+   "path": "europe/united-kingdom/england/merseyside",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/norfolk",
+   "path": "europe/united-kingdom/england/norfolk",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__norfolk.map",
+   "size": 35669412,
+   "sha256": "aa644614248dac56d46cfb0b10c519d524a28debd941a4f1bd5dfc2eb0fc7266",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.25478,
+    0.05447,
+    53.45573,
+    2.092789
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/north-yorkshire",
+   "path": "europe/united-kingdom/england/north-yorkshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__north-yorkshire.map",
+   "size": 46395070,
+   "sha256": "8cdb83932bddfbab537520356cb8a963c34f6d056e384658d86ff2c110b749a5",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.51999,
+    -2.667177,
+    54.80222,
+    0.059385
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/northamptonshire",
+   "path": "europe/united-kingdom/england/northamptonshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/northumberland",
+   "path": "europe/united-kingdom/england/northumberland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__northumberland.map",
+   "size": 22702440,
+   "sha256": "e89f550ea5c17c3c9b6532c430d7fffa88362f478c637bf6b0e1bc8552853f80",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    54.68162,
+    -2.790724,
+    55.94866,
+    -1.123287
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/nottinghamshire",
+   "path": "europe/united-kingdom/england/nottinghamshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/oxfordshire",
+   "path": "europe/united-kingdom/england/oxfordshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__oxfordshire.map",
+   "size": 21271531,
+   "sha256": "ea774c963a0e6878a82bad966ad5cb6059e6c13013d6e4cbb7e4a526fd5c6939",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.36057,
+    -1.819533,
+    52.26807,
+    -0.76985
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/rutland",
+   "path": "europe/united-kingdom/england/rutland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__rutland.map",
+   "size": 1388907,
+   "sha256": "1db4a865010d9a838cc6969b4051e81ff51dd3c77b9f7da0a272f534c101d7f7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.42355,
+    -0.922934,
+    52.86109,
+    -0.327654
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/shropshire",
+   "path": "europe/united-kingdom/england/shropshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__shropshire.map",
+   "size": 21571406,
+   "sha256": "416902e8d9861f5bbc541c65527fe0d53aee74e8e2a96f42bcf834bcc6fcb119",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    52.20616,
+    -3.335577,
+    53.09693,
+    -2.13354
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/somerset",
+   "path": "europe/united-kingdom/england/somerset",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__somerset.map",
+   "size": 39213472,
+   "sha256": "1ba5190684e65cc51a60f4457b16875a9db1f6d1ea970d229aa4f9a6b3313f16",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.71995,
+    -3.94094,
+    51.60392,
+    -2.143303
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/south-yorkshire",
+   "path": "europe/united-kingdom/england/south-yorkshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/staffordshire",
+   "path": "europe/united-kingdom/england/staffordshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/suffolk",
+   "path": "europe/united-kingdom/england/suffolk",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__suffolk.map",
+   "size": 26956689,
+   "sha256": "597e21af74ce192088fca455ac13ccfb4c336e4e716af89a69930d1897ab26d2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.83285,
+    0.239563,
+    52.65013,
+    1.863681
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/surrey",
+   "path": "europe/united-kingdom/england/surrey",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/tyne-and-wear",
+   "path": "europe/united-kingdom/england/tyne-and-wear",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/warwickshire",
+   "path": "europe/united-kingdom/england/warwickshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/west-midlands",
+   "path": "europe/united-kingdom/england/west-midlands",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/west-sussex",
+   "path": "europe/united-kingdom/england/west-sussex",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__west-sussex.map",
+   "size": 38295734,
+   "sha256": "6fe7ab3e51a7fc3d9a1d1324e6d005f888d14a2e80fc8b8eb4447355a3b8c016",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.60685,
+    -1.056244,
+    51.269,
+    0.141342
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/west-yorkshire",
+   "path": "europe/united-kingdom/england/west-yorkshire",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__england__west-yorkshire.map",
+   "size": 42398883,
+   "sha256": "3befb7cd1fb347219ee9f44fc1f24d2a1bb2edef18c6b95be7c7dbb115e21fef",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    53.41822,
+    -2.275545,
+    54.06491,
+    -1.096
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/england/wiltshire",
+   "path": "europe/united-kingdom/england/wiltshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/england/worcestershire",
+   "path": "europe/united-kingdom/england/worcestershire",
+   "status": "unavailable"
+  },
+  {
+   "region": "europe/united-kingdom/scotland",
+   "path": "europe/united-kingdom/scotland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__scotland.map",
+   "size": 300461136,
+   "sha256": "7e790d0452cce057d8a86c5133d89446763954b3f5e2ec612cfc77faccbe8362",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    54.44001,
+    -14.96155,
+    61.23564,
+    0.316055
+   ]
+  },
+  {
+   "region": "europe/united-kingdom/wales",
+   "path": "europe/united-kingdom/wales",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/europe__united-kingdom__wales.map",
+   "size": 122756101,
+   "sha256": "e07ef15a1a93cec10825a24524144eb7cafc7f2d5c99609e69f28f4761dcd234",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.93997,
+    -6.283241,
+    53.86632,
+    -2.548042
+   ]
+  },
+  {
+   "region": "north-america/canada/alberta",
+   "path": "north-america/canada/alberta",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__alberta.map",
+   "size": 339134309,
+   "sha256": "1a1f68a8c64d6b5864f4d3d925abaf2542abfd615ea7187ad35f76857235a244",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.89251,
+    -120.1043,
+    60.10254,
+    -109.9018
+   ]
+  },
+  {
+   "region": "north-america/canada/british-columbia",
+   "path": "north-america/canada/british-columbia",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/manitoba",
+   "path": "north-america/canada/manitoba",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__manitoba.map",
+   "size": 239611083,
+   "sha256": "2454fd2e61bfbe529f11624536caafe841a4fe8f1689a6d65cd0cb769db2b792",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.89056,
+    -102.114,
+    60.10845,
+    -88.02183
+   ]
+  },
+  {
+   "region": "north-america/canada/new-brunswick",
+   "path": "north-america/canada/new-brunswick",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__new-brunswick.map",
+   "size": 63426589,
+   "sha256": "1403552718f442f6f1539dd1b55f867f01feef8984856189b383ad1d40f2f14a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.09205,
+    -69.15975,
+    48.48075,
+    -62.78575
+   ]
+  },
+  {
+   "region": "north-america/canada/newfoundland-and-labrador",
+   "path": "north-america/canada/newfoundland-and-labrador",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/northwest-territories",
+   "path": "north-america/canada/northwest-territories",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/nova-scotia",
+   "path": "north-america/canada/nova-scotia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__nova-scotia.map",
+   "size": 87746744,
+   "sha256": "14dfef97edbfd40863864b0367bf8437e6f4d0b7953b759873a9e8a4352f287a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.00691,
+    -67.34728,
+    47.99793,
+    -58.12593
+   ]
+  },
+  {
+   "region": "north-america/canada/nunavut",
+   "path": "north-america/canada/nunavut",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/ontario",
+   "path": "north-america/canada/ontario",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/prince-edward-island",
+   "path": "north-america/canada/prince-edward-island",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/quebec",
+   "path": "north-america/canada/quebec",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/canada/saskatchewan",
+   "path": "north-america/canada/saskatchewan",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__saskatchewan.map",
+   "size": 148650365,
+   "sha256": "20a3304af39099b764a8be0d960376515333c289a19c1ea3e86f38db60c6cee4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    48.8876,
+    -110.1069,
+    60.10052,
+    -101.2614
+   ]
+  },
+  {
+   "region": "north-america/canada/yukon",
+   "path": "north-america/canada/yukon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__canada__yukon.map",
+   "size": 146637232,
+   "sha256": "b6cd42a3c0e5d4daa6e3691432792fe78ea126b1bfa019af15913ae9d9cfb0f1",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    59.89739,
+    -141.3389,
+    70.26293,
+    -123.7021
+   ]
+  },
+  {
+   "region": "north-america/greenland",
+   "path": "north-america/greenland",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/mexico",
+   "path": "north-america/mexico",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__mexico.map",
+   "size": 747663708,
+   "sha256": "f5d6bd0c5d49bb3c5121263ecf3957223f3fdede62694364977a63f27bd39bad",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    9.356709,
+    -132.5952,
+    32.82067,
+    -85.39087
+   ]
+  },
+  {
+   "region": "north-america/us-midwest",
+   "path": "north-america/us-midwest",
+   "status": "needs-funding",
+   "osmBytes": 2537460824
+  },
+  {
+   "region": "north-america/us-northeast",
+   "path": "north-america/us-northeast",
+   "status": "needs-funding",
+   "osmBytes": 1811607849
+  },
+  {
+   "region": "north-america/us-pacific",
+   "path": "north-america/us-pacific-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us-pacific-1.map",
+   "size": 1049151057,
+   "sha256": "d75175bfc931df612d1c35bfdf0a21f9518c74c060d357f888bf70824e09b1e1",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    15.82097,
+    -180.0,
+    73.08845,
+    -129.6998
+   ]
+  },
+  {
+   "region": "north-america/us-pacific",
+   "path": "north-america/us-pacific-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us-pacific-2.map",
+   "size": 7984242,
+   "sha256": "d4b1ce15100e302baf3b01fc59f21290c7f8c2b59b6429a8748d169c8b34f148",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    50.88611,
+    170.8912,
+    54.46236,
+    180.0
+   ]
+  },
+  {
+   "region": "north-america/us-south",
+   "path": "north-america/us-south",
+   "status": "needs-funding",
+   "osmBytes": 4164179416
+  },
+  {
+   "region": "north-america/us-west",
+   "path": "north-america/us-west",
+   "status": "needs-funding",
+   "osmBytes": 3435529834
+  },
+  {
+   "region": "north-america/us/alabama",
+   "path": "north-america/us/alabama",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__alabama.map",
+   "size": 131406661,
+   "sha256": "6171f2941f0f5f5a5e2d8591183b5fed9a03b383f6015d047cc7f391d0e11f30",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    29.85494,
+    -88.58389,
+    35.10872,
+    -84.78336
+   ]
+  },
+  {
+   "region": "north-america/us/alaska",
+   "path": "north-america/us/alaska-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__alaska-1.map",
+   "size": 668665982,
+   "sha256": "cfb55f35e020740852adbaa085b4a664a831e6a9c8789480259e24f1c7bc47fb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.7089,
+    -180.0,
+    73.08845,
+    -129.6998
+   ]
+  },
+  {
+   "region": "north-america/us/alaska",
+   "path": "north-america/us/alaska-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__alaska-2.map",
+   "size": 6981969,
+   "sha256": "05645aad819c0983bf02a21b67fab5c66055db5671422513b449191be4b25a33",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.01043,
+    171.6602,
+    54.29459,
+    180.0
+   ]
+  },
+  {
+   "region": "north-america/us/arizona",
+   "path": "north-america/us/arizona",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__arizona.map",
+   "size": 271459573,
+   "sha256": "a0ab534c3447d679ed136439738e3fed9f1cb2697304932732830e00b4e2f624",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    31.22659,
+    -114.9224,
+    37.10596,
+    -108.9437
+   ]
+  },
+  {
+   "region": "north-america/us/arkansas",
+   "path": "north-america/us/arkansas",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/california",
+   "path": "north-america/us/california",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__california.map",
+   "size": 923173699,
+   "sha256": "1757497756835da1c610793213800ce8f6d5f4cdc3cbd0055bc2c7ad78656d8c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    32.38171,
+    -125.9935,
+    42.11618,
+    -114.0291
+   ]
+  },
+  {
+   "region": "north-america/us/colorado",
+   "path": "north-america/us/colorado",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__colorado.map",
+   "size": 288880652,
+   "sha256": "930b6a13bee114a403b7b12d8f24a8698e8da7af556697ad007c01d272169f79",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.88943,
+    -109.1631,
+    41.10388,
+    -101.9355
+   ]
+  },
+  {
+   "region": "north-america/us/connecticut",
+   "path": "north-america/us/connecticut",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__connecticut.map",
+   "size": 143632697,
+   "sha256": "ecb0754c2be88cf6925e34b86b9be5494a18d02c00af92f1b2562761f9c8442f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.86401,
+    -73.82889,
+    42.15229,
+    -71.6853
+   ]
+  },
+  {
+   "region": "north-america/us/delaware",
+   "path": "north-america/us/delaware",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/district-of-columbia",
+   "path": "north-america/us/district-of-columbia",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/florida",
+   "path": "north-america/us/florida",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__florida.map",
+   "size": 679646002,
+   "sha256": "381f1a1a10c1833285a4d52d9c8f4c80a49d9ddbd477759a1756695ba74c0d45",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    24.10031,
+    -88.56896,
+    31.10307,
+    -79.33702
+   ]
+  },
+  {
+   "region": "north-america/us/georgia",
+   "path": "north-america/us/georgia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__georgia.map",
+   "size": 270011228,
+   "sha256": "54a0e1680bd1bf4b251189f0ccc2e242ad56d73a3a10879b9f0e6ab7c6bc0810",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    30.25365,
+    -85.7068,
+    35.10356,
+    -80.64313
+   ]
+  },
+  {
+   "region": "north-america/us/hawaii",
+   "path": "north-america/us/hawaii",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__hawaii.map",
+   "size": 84785417,
+   "sha256": "f56c4ca82335fcefa5f6df5a04f9e31aa7a7da130ae6fa19c8f36ace3e292e80",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    15.82097,
+    -179.6994,
+    29.12109,
+    -142.5511
+   ]
+  },
+  {
+   "region": "north-america/us/idaho",
+   "path": "north-america/us/idaho",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__idaho.map",
+   "size": 110082733,
+   "sha256": "b7eaf4bfc910dd79dbc2c94fb90f66ca1280026eb7418bbaf8dd2cbafc19c54c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.88306,
+    -117.346,
+    49.10819,
+    -110.9431
+   ]
+  },
+  {
+   "region": "north-america/us/illinois",
+   "path": "north-america/us/illinois",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__illinois.map",
+   "size": 295641742,
+   "sha256": "53c2d85249f7b8dc4a1a88a9e640f3f458402424f60e093c1230ac7809010939",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.86731,
+    -91.61608,
+    42.60941,
+    -87.39264
+   ]
+  },
+  {
+   "region": "north-america/us/indiana",
+   "path": "north-america/us/indiana",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__indiana.map",
+   "size": 172496450,
+   "sha256": "6320806d6d58121868171af8467a8f39ba9870de24a7a0774c7fcd4a0d3d6fd8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.66911,
+    -88.20327,
+    41.86301,
+    -84.68042
+   ]
+  },
+  {
+   "region": "north-america/us/iowa",
+   "path": "north-america/us/iowa",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__iowa.map",
+   "size": 109729140,
+   "sha256": "ee1700a99a27e9e0b72e5b2dc8fc9d95e560787caaecc2d3ee97663236a4c229",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.27266,
+    -96.7426,
+    43.60182,
+    -90.03581
+   ]
+  },
+  {
+   "region": "north-america/us/kansas",
+   "path": "north-america/us/kansas",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__kansas.map",
+   "size": 105815868,
+   "sha256": "6289b543bbf7f1fd5194613500abe9ee349da89c3958544d5a465a2c17979d83",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.89136,
+    -102.1535,
+    40.10375,
+    -94.48926
+   ]
+  },
+  {
+   "region": "north-america/us/kentucky",
+   "path": "north-america/us/kentucky",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__kentucky.map",
+   "size": 115598997,
+   "sha256": "af90445973948839ddc50aa8087b43c8fa97e51c368771fdde86c676d9f20cda",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.39325,
+    -89.68125,
+    39.24831,
+    -81.85512
+   ]
+  },
+  {
+   "region": "north-america/us/louisiana",
+   "path": "north-america/us/louisiana",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__louisiana.map",
+   "size": 118947132,
+   "sha256": "a7719a2c3bcdb12467fc0f7a12ed9ac2e10a52a81405092557265e59fd8a136c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    28.04452,
+    -94.14376,
+    33.12025,
+    -88.56684
+   ]
+  },
+  {
+   "region": "north-america/us/maine",
+   "path": "north-america/us/maine",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__maine.map",
+   "size": 78183117,
+   "sha256": "ca897611ec7d86fccdf9ddf2faa7f0ce0a96329140b2fd5ba8ff94c16b0e59f5",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.75443,
+    -71.18891,
+    47.56222,
+    -66.77164
+   ]
+  },
+  {
+   "region": "north-america/us/maryland",
+   "path": "north-america/us/maryland",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__maryland.map",
+   "size": 169673896,
+   "sha256": "8ef776b7f8cafa6f4168e5721d4b43a9ac6d0c4ea9ee8985e710cdd00959f8b1",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.78396,
+    -79.58857,
+    39.82684,
+    -74.85408
+   ]
+  },
+  {
+   "region": "north-america/us/massachusetts",
+   "path": "north-america/us/massachusetts",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__massachusetts.map",
+   "size": 205651200,
+   "sha256": "a4d877d637c5441aad74bbfe15c4f6f8b41f7e0e0070efcdc1b5f5300c4481a6",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.78291,
+    -73.61096,
+    42.98768,
+    -68.63438
+   ]
+  },
+  {
+   "region": "north-america/us/michigan",
+   "path": "north-america/us/michigan",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/minnesota",
+   "path": "north-america/us/minnesota",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__minnesota.map",
+   "size": 233311107,
+   "sha256": "a105a55e52a1730b573a7bf8c1947bb1a51cc405b262ace97b928758af6db626",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.39909,
+    -97.34987,
+    49.50714,
+    -89.38612
+   ]
+  },
+  {
+   "region": "north-america/us/mississippi",
+   "path": "north-america/us/mississippi",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__mississippi.map",
+   "size": 67043257,
+   "sha256": "65084fe20a28bcd8cd14eac1040cfa60fc363cfe2650fcf4de02662ef4fc21e4",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    29.94168,
+    -91.75857,
+    35.10055,
+    -87.99292
+   ]
+  },
+  {
+   "region": "north-america/us/missouri",
+   "path": "north-america/us/missouri",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__missouri.map",
+   "size": 166872582,
+   "sha256": "171bf6b98602089d17e3f66bf62490a72963faabf90b10f36985c630b23df1f8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    35.89466,
+    -95.87751,
+    40.71664,
+    -88.9891
+   ]
+  },
+  {
+   "region": "north-america/us/montana",
+   "path": "north-america/us/montana",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__montana.map",
+   "size": 102493939,
+   "sha256": "8f262f2a927f7d170239e5b0760374daaa534b06c6cbe509ba983eb40933b8ae",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    44.25556,
+    -116.1518,
+    49.10769,
+    -103.9355
+   ]
+  },
+  {
+   "region": "north-america/us/nebraska",
+   "path": "north-america/us/nebraska",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__nebraska.map",
+   "size": 89115774,
+   "sha256": "213cc4982c83c094284d7978bbde4a30febbef9abf131c24ff5819923a742ecf",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    39.90015,
+    -104.1575,
+    43.10172,
+    -95.20703
+   ]
+  },
+  {
+   "region": "north-america/us/nevada",
+   "path": "north-america/us/nevada",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__nevada.map",
+   "size": 112473868,
+   "sha256": "25ae19641cddeb8a920faa439a733ebcef13950262d0fcca5e0368e55a896041",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    34.90053,
+    -120.1074,
+    42.10391,
+    -113.9379
+   ]
+  },
+  {
+   "region": "north-america/us/new-hampshire",
+   "path": "north-america/us/new-hampshire",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/new-jersey",
+   "path": "north-america/us/new-jersey",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__new-jersey.map",
+   "size": 129802738,
+   "sha256": "9d327c335080111d838b4f70f168d9e3bda483c7b03b90738b58286ac7d1f92d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    38.65433,
+    -75.67879,
+    41.45807,
+    -73.57898
+   ]
+  },
+  {
+   "region": "north-america/us/new-mexico",
+   "path": "north-america/us/new-mexico",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__new-mexico.map",
+   "size": 120083235,
+   "sha256": "904f23b7f246318e81343f0511996c5d8e02774562b2ca86e6e21dbeecdaf66d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    31.23043,
+    -109.1504,
+    37.10184,
+    -102.8979
+   ]
+  },
+  {
+   "region": "north-america/us/new-york",
+   "path": "north-america/us/new-york",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__new-york.map",
+   "size": 388003844,
+   "sha256": "97d92f93f3c5fbe967b24a554cc208300df4e270d89337c59831ba09a4e1687f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.33922,
+    -79.86483,
+    45.11766,
+    -71.5608
+   ]
+  },
+  {
+   "region": "north-america/us/north-carolina",
+   "path": "north-america/us/north-carolina",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__north-carolina.map",
+   "size": 326365695,
+   "sha256": "68751780a0a3dc091127d4d50cdc99240681de97b0b5d3b2b474f58afac3c9e0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    33.02992,
+    -84.42219,
+    36.68979,
+    -73.6396
+   ]
+  },
+  {
+   "region": "north-america/us/north-dakota",
+   "path": "north-america/us/north-dakota",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__north-dakota.map",
+   "size": 84579590,
+   "sha256": "64d6ce79d29249e9b886035758fdfc21589be6d8e39053e57d2f1e33a06d9d07",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.83448,
+    -104.153,
+    49.11671,
+    -96.45292
+   ]
+  },
+  {
+   "region": "north-america/us/ohio",
+   "path": "north-america/us/ohio",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__ohio.map",
+   "size": 276420767,
+   "sha256": "7d3bb05404bd17de6c15454ac05e98c687a93e37c97594021946f8c41d141993",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    38.30076,
+    -84.9219,
+    42.43584,
+    -80.40521
+   ]
+  },
+  {
+   "region": "north-america/us/oklahoma",
+   "path": "north-america/us/oklahoma",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__oklahoma.map",
+   "size": 124876425,
+   "sha256": "cff3f28b1f420a435d3a8ea022786633842427cdb9b75631e9bc48ea092bb1c0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    33.51348,
+    -103.1078,
+    37.10529,
+    -94.32989
+   ]
+  },
+  {
+   "region": "north-america/us/oregon",
+   "path": "north-america/us/oregon",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__oregon.map",
+   "size": 204210269,
+   "sha256": "baa64021f82cc8b4a5152db84f860a26503bb8d18f17cd4fb07ccbf034f7a453",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.8634,
+    -126.4879,
+    46.40349,
+    -116.3545
+   ]
+  },
+  {
+   "region": "north-america/us/pennsylvania",
+   "path": "north-america/us/pennsylvania",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/puerto-rico",
+   "path": "north-america/us/puerto-rico",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/rhode-island",
+   "path": "north-america/us/rhode-island",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__rhode-island.map",
+   "size": 36446324,
+   "sha256": "458fc05c44e78a9ae25b8defb218f1fedd81f7a4219d213de74a6d6b325fb61c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.8992,
+    -72.01456,
+    42.11938,
+    -70.96369
+   ]
+  },
+  {
+   "region": "north-america/us/south-carolina",
+   "path": "north-america/us/south-carolina",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__south-carolina.map",
+   "size": 130676985,
+   "sha256": "3bdc57f7bf0f7f6d00d0cdd6f6619cfab5ded7d1610b432a948efe5b3987dcec",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    31.92967,
+    -83.45622,
+    35.3184,
+    -78.41867
+   ]
+  },
+  {
+   "region": "north-america/us/south-dakota",
+   "path": "north-america/us/south-dakota",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__south-dakota.map",
+   "size": 50541281,
+   "sha256": "68237d331530fea3aa04340de8d0a8ced438d519d84058a4e098d8d63574dc39",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.37744,
+    -104.1588,
+    46.04831,
+    -96.33595
+   ]
+  },
+  {
+   "region": "north-america/us/tennessee",
+   "path": "north-america/us/tennessee",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__tennessee.map",
+   "size": 151687952,
+   "sha256": "09ca5ca8f74812609d485e0c5268b1bfc054f4c5cb8deae6d7a19c562ac0522b",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    34.88269,
+    -90.41329,
+    36.78075,
+    -81.54416
+   ]
+  },
+  {
+   "region": "north-america/us/texas",
+   "path": "north-america/us/texas",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__texas.map",
+   "size": 608137053,
+   "sha256": "2159edd76b610b6bc09cbe2190ceef95de0a7120f94e12311ffa35957939cfe9",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    25.59551,
+    -106.7494,
+    36.62145,
+    -92.91897
+   ]
+  },
+  {
+   "region": "north-america/us/us-virgin-islands",
+   "path": "north-america/us/us-virgin-islands",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__us-virgin-islands.map",
+   "size": 3166884,
+   "sha256": "359ca1fc10ed1e75e344a8ed3973f73153faa1415b5b53122a2b93b440f949fb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    17.18246,
+    -65.27502,
+    18.58596,
+    -63.85554
+   ]
+  },
+  {
+   "region": "north-america/us/utah",
+   "path": "north-america/us/utah",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__utah.map",
+   "size": 148061922,
+   "sha256": "f1738b39dc8751c76395c24ccd3b5bb2eb4e31633081e725b67a43cb87a85453",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    36.8963,
+    -114.1556,
+    42.10323,
+    -108.9394
+   ]
+  },
+  {
+   "region": "north-america/us/vermont",
+   "path": "north-america/us/vermont",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__vermont.map",
+   "size": 36100875,
+   "sha256": "3e9ee0b491c576a6b7aae6a087c0b92d3d3ed6b10c95b4fa781d69fe953ddd37",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.62498,
+    -73.53943,
+    45.12309,
+    -71.36476
+   ]
+  },
+  {
+   "region": "north-america/us/virginia",
+   "path": "north-america/us/virginia",
+   "status": "unavailable"
+  },
+  {
+   "region": "north-america/us/washington",
+   "path": "north-america/us/washington",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__washington.map",
+   "size": 306733345,
+   "sha256": "b6e74ea33a08bb8973d2d12168f21976ce1c9f5772888c7336c44c315bb2d37a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    45.43882,
+    -126.8423,
+    49.10708,
+    -116.8115
+   ]
+  },
+  {
+   "region": "north-america/us/west-virginia",
+   "path": "north-america/us/west-virginia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__west-virginia.map",
+   "size": 96896024,
+   "sha256": "44d9501647e0ffa35424ada98e3aa1e6612c2f321704b6358bc0c23a28a1bbff",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.09858,
+    -82.74965,
+    40.74636,
+    -77.6141
+   ]
+  },
+  {
+   "region": "north-america/us/wisconsin",
+   "path": "north-america/us/wisconsin",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__wisconsin.map",
+   "size": 242245432,
+   "sha256": "ada902e1e3d73d8af53ec8e2646d5b28bc3766300a2ef7703bec0a178cdd8ebb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    42.38899,
+    -92.99089,
+    47.51451,
+    -86.10021
+   ]
+  },
+  {
+   "region": "north-america/us/wyoming",
+   "path": "north-america/us/wyoming",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/north-america__us__wyoming.map",
+   "size": 93436415,
+   "sha256": "a06b5914e626634adb3c1e16fd448074e7fe023ccb0e5c58095599c456ab460c",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    40.88339,
+    -111.1576,
+    45.11216,
+    -103.8413
+   ]
+  },
+  {
+   "region": "russia/central-fed-district",
+   "path": "russia/central-fed-district",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__central-fed-district.map",
+   "size": 842915162,
+   "sha256": "8a3aa2e7f2dfab90db5d2400926bd88dd104399abf6ad4e81bb6a527ad81dfeb",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    49.40446,
+    30.59976,
+    59.7533,
+    47.77023
+   ]
+  },
+  {
+   "region": "russia/crimean-fed-district",
+   "path": "russia/crimean-fed-district",
+   "status": "unavailable"
+  },
+  {
+   "region": "russia/far-eastern-fed-district",
+   "path": "russia/far-eastern-fed-district-1",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__far-eastern-fed-district-1.map",
+   "size": 73769986,
+   "sha256": "633f84d03c9d8e76a491142fb6db246fe10af3454f5816f4ccb69f1ad20a54a7",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    62.16134,
+    -180.0,
+    72.33926,
+    -168.5841
+   ]
+  },
+  {
+   "region": "russia/far-eastern-fed-district",
+   "path": "russia/far-eastern-fed-district-2",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__far-eastern-fed-district-2.map",
+   "size": 1672160229,
+   "sha256": "81e8d7144ca8b41973cb1cb31fccc8bfe76787238632fe5e95a41669cd092530",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    37.24659,
+    105.3219,
+    82.10023,
+    180.0
+   ]
+  },
+  {
+   "region": "russia/kaliningrad",
+   "path": "russia/kaliningrad",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__kaliningrad.map",
+   "size": 30774331,
+   "sha256": "e0c74bca549a0157edd60e03ae41f26f8df694fbfa6081bf5d529d8eb9075e9e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    54.21723,
+    19.30837,
+    55.4899,
+    22.98747
+   ]
+  },
+  {
+   "region": "russia/north-caucasus-fed-district",
+   "path": "russia/north-caucasus-fed-district",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__north-caucasus-fed-district.map",
+   "size": 149234982,
+   "sha256": "5e764077f8f98a403f5510982be01b59c0c85368d78680d788ea1408efb07e5d",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    41.0355,
+    40.57265,
+    46.33914,
+    48.96453
+   ]
+  },
+  {
+   "region": "russia/northwestern-fed-district",
+   "path": "russia/northwestern-fed-district",
+   "status": "unavailable"
+  },
+  {
+   "region": "russia/siberian-fed-district",
+   "path": "russia/siberian-fed-district",
+   "status": "unavailable"
+  },
+  {
+   "region": "russia/south-fed-district",
+   "path": "russia/south-fed-district",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__south-fed-district.map",
+   "size": 332673379,
+   "sha256": "327ecbca59e7149c524e01251e06ecde860abb28900001b1a1e5eb77885a25b3",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    43.08958,
+    36.42315,
+    51.3554,
+    50.03666
+   ]
+  },
+  {
+   "region": "russia/ural-fed-district",
+   "path": "russia/ural-fed-district",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/russia__ural-fed-district.map",
+   "size": 672172813,
+   "sha256": "ed74f5e439d008851a01a1afe342e0f66e8098b78ed9010eb14d6ccb90029a60",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    51.7264,
+    56.94259,
+    75.111,
+    86.1952
+   ]
+  },
+  {
+   "region": "russia/volga-fed-district",
+   "path": "russia/volga-fed-district",
+   "status": "unavailable"
+  },
+  {
+   "region": "south-america/argentina",
+   "path": "south-america/argentina",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__argentina.map",
+   "size": 593481410,
+   "sha256": "cc87bf62a806aa07378a5c525352562b94d6f709818a13e88cc517ffa50df301",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -55.78296,
+    -73.71453,
+    -21.62575,
+    -53.53534
+   ]
+  },
+  {
+   "region": "south-america/bolivia",
+   "path": "south-america/bolivia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__bolivia.map",
+   "size": 186866076,
+   "sha256": "9fff757d875bf5d2b44f0e61e345bcd95ead4b2e3e28d71ce22f964084327259",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -23.02551,
+    -69.75675,
+    -9.53866,
+    -57.33481
+   ]
+  },
+  {
+   "region": "south-america/brazil",
+   "path": "south-america/brazil",
+   "status": "needs-funding",
+   "osmBytes": 2105631317
+  },
+  {
+   "region": "south-america/brazil/centro-oeste",
+   "path": "south-america/brazil/centro-oeste",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__brazil__centro-oeste.map",
+   "size": 249980305,
+   "sha256": "c19fff041e378308da97f74e77feddef3084ede66552169302c8a7d73e4ea947",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -24.28381,
+    -61.76496,
+    -7.217334,
+    -45.77758
+   ]
+  },
+  {
+   "region": "south-america/brazil/nordeste",
+   "path": "south-america/brazil/nordeste",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__brazil__nordeste.map",
+   "size": 472423202,
+   "sha256": "001ad06f621c935106edf270cb02e0cd8b47c5e85b1f79ae1241d5f770c34158",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -18.69514,
+    -48.87554,
+    2.773015,
+    -28.32028
+   ]
+  },
+  {
+   "region": "south-america/brazil/norte",
+   "path": "south-america/brazil/norte",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__brazil__norte.map",
+   "size": 305647402,
+   "sha256": "d9e954745bc86198c4e0e690519917fcc19bc99b86ec45d0466ccb3c7199847f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -13.83407,
+    -74.12313,
+    5.622895,
+    -42.77915
+   ]
+  },
+  {
+   "region": "south-america/brazil/sudeste",
+   "path": "south-america/brazil/sudeste",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__brazil__sudeste.map",
+   "size": 826951218,
+   "sha256": "e055c28466030566cbcdfe7db756cb14f06e5fdd4846d3181a2dcb776d9780e9",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -25.5993,
+    -53.2189,
+    -14.12445,
+    -28.09195
+   ]
+  },
+  {
+   "region": "south-america/brazil/sul",
+   "path": "south-america/brazil/sul",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__brazil__sul.map",
+   "size": 415742411,
+   "sha256": "180c50d616231f0cb9c49be6aa6fca0e231e23bdc6b809610b46715263cc218a",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -34.96424,
+    -57.77273,
+    -22.41383,
+    -44.1463
+   ]
+  },
+  {
+   "region": "south-america/chile",
+   "path": "south-america/chile",
+   "status": "unavailable"
+  },
+  {
+   "region": "south-america/colombia",
+   "path": "south-america/colombia",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__colombia.map",
+   "size": 353771626,
+   "sha256": "84b6e3aa5d18734c7bab6bf679ea9fca1bb43a2ccb86e230b9b93c1159a69bd8",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -4.35732,
+    -83.33104,
+    16.51924,
+    -66.71472
+   ]
+  },
+  {
+   "region": "south-america/ecuador",
+   "path": "south-america/ecuador",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__ecuador.map",
+   "size": 133971664,
+   "sha256": "9e1ddd5e1d7115cd5a7a9e0e453f52e0785d23422c2238801c661e418b785ef0",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -5.124173,
+    -93.66487,
+    2.943487,
+    -75.06149
+   ]
+  },
+  {
+   "region": "south-america/guyana",
+   "path": "south-america/guyana",
+   "status": "unavailable"
+  },
+  {
+   "region": "south-america/paraguay",
+   "path": "south-america/paraguay",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__paraguay.map",
+   "size": 154886339,
+   "sha256": "81ddcee1d2f25144898dc9ee5e0820637f602985b4a89586426f924b9802942f",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -27.75675,
+    -62.79475,
+    -19.14012,
+    -54.10176
+   ]
+  },
+  {
+   "region": "south-america/peru",
+   "path": "south-america/peru",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__peru.map",
+   "size": 311554962,
+   "sha256": "515d2165d537ab49898dce44921f0fa16ca196a2a8e2ee2aa5f9ca95b948555e",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -20.40552,
+    -86.12509,
+    0.160049,
+    -68.45439
+   ]
+  },
+  {
+   "region": "south-america/suriname",
+   "path": "south-america/suriname",
+   "status": "unavailable"
+  },
+  {
+   "region": "south-america/uruguay",
+   "path": "south-america/uruguay",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__uruguay.map",
+   "size": 48950745,
+   "sha256": "ca247563454be3a11020e91b6d072f1100a780afb1ea1df31ee984d8f2c270aa",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    -36.3487,
+    -58.62589,
+    -29.97355,
+    -52.6723
+   ]
+  },
+  {
+   "region": "south-america/venezuela",
+   "path": "south-america/venezuela",
+   "url": "https://github.com/adam2314/my-pipeline/releases/download/maps-2026-11/south-america__venezuela.map",
+   "size": 164580182,
+   "sha256": "db6bcf21a329946043f54617e7b7ba00b7b311a20640280ed731da7dccbe62e2",
+   "date": "2026-11-15T21:22:28Z",
+   "bbox": [
+    0.521727,
+    -73.48098,
+    16.06134,
+    -59.41474
+   ]
+  }
+ ]
+}
