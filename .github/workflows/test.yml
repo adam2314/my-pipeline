@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install osmium==4.* shapely==2.* pyshp==3.*
+      - run: pip install osmium==4.* shapely==2.* pyshp==3.* numpy pillow
       - run: python -m unittest -v
       - name: Tag files are well-formed XML
         run: python -c "import xml.dom.minidom as m; [m.parse(f) for f in ('tag-mapping.xml', 'tag-transform.xml')]"

@@ -1,0 +1,44 @@
+name: Weather
+
+# NOAA's GFS forecast for MapAround's web map (weather.py): the next 48 hours as small pictures,
+# every 6 hours, on the `weather` branch (one commit, replaced each time), which browsers can read
+# from raw.githubusercontent.com (CORS; release downloads don't allow it).
+
+on:
+  schedule:
+    - cron: "40 4,10,16,22 * * *" # about 4 h 40 after each model run (00, 06, 12, 18 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write # the weather branch
+
+concurrency:
+  group: weather
+  cancel-in-progress: true
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  weather:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "eccodes>=2.38" "numpy>=2" "pillow>=11"
+      - name: The newest complete GFS run
+        run: python weather.py --out "$RUNNER_TEMP/weather"
+      - name: On the weather branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd "$RUNNER_TEMP/weather"
+          git init -q -b weather
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "GFS $(python -c 'import json; print(json.load(open("manifest.json"))["run"])')"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" weather

@@ -150,6 +150,27 @@ folder button).
 
 Tests: `python -m unittest` (the parts that don't need Osmosis).
 
+## Weather
+
+[weather.py](weather.py) makes the weather layers of MapAround's web map from **NOAA's GFS**
+forecast model (public domain): every 6 hours ([weather.yml](.github/workflows/weather.yml), about
+4 h 40 after each model run), the next 48 hours, every 3, as small pictures of the whole world at
+0.5° (720 × 361, from 180°W and 90°N), each colour channel one field scaled to 0-255:
+
+| File | Red | Green | Blue |
+|---|---|---|---|
+| `wt_fNNN.png` | wind east, −40…40 m/s | wind north, −40…40 m/s | temperature at 2 m, −50…50 °C |
+| `cp_fNNN.png` | cloud cover, 0…100 % | rain and snow, √(0…20 mm/h) | pressure at sea level, 950…1050 hPa |
+
+`manifest.json` says which model run, each step's time and files, the grid and the ranges. They're
+on the `weather` branch (one commit, replaced each time), which browsers can read from
+`https://raw.githubusercontent.com/adam2314/my-pipeline/weather/` (release downloads don't let
+other sites read them). About 10 MB a run. The fields come from NOMADS's "grib filter" (only those
+fields, on the 0.5° grid) and are read with ecCodes.
+
+    pip install "eccodes>=2.38" numpy pillow
+    python weather.py --out weather --hours 6
+
 ## Licences
 
 - The maps: data © OpenStreetMap contributors, [ODbL](https://www.openstreetmap.org/copyright); the
@@ -159,4 +180,5 @@ Tests: `python -m unittest` (the parts that don't need Osmosis).
   mapsforge's and mapsforge-creator's (LGPL-3.0).
 - The build runs Osmosis (public domain; its libraries have their own licences) and the mapsforge
   map writer (LGPL-3.0); they aren't part of this repository.
+- The weather: NOAA's GFS, public domain (a work of the US government); credit NOAA where shown.
 - The rest of this repository: GPL-3.0 ([LICENSE](LICENSE)), like MapAround.
